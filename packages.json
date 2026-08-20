@@ -2264,9 +2264,9 @@
         "options": {
           "descriptionCommunity": "iniBuilds A340",
           "descriptionMarketplace": "iniBuilds A340",
-          "imageUrl": "https://git.skybound.cx/sap/navigraph-hub/raw/branch/main/inibuilds_logo.png",
-          "imageUrlCommunity": "https://git.skybound.cx/sap/navigraph-hub/raw/branch/main/inibuilds_logo.png",
-          "imageUrlMarketplace": "https://git.skybound.cx/sap/navigraph-hub/raw/branch/main/inibuilds_logo.png",
+          "imageUrl": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/inibuilds_logo.png",
+          "imageUrlCommunity": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/inibuilds_logo.png",
+          "imageUrlMarketplace": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/inibuilds_logo.png",
           "installInWorkfolder":  true,
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
@@ -2317,9 +2317,9 @@
         "options": {
           "descriptionCommunity": "iniBuilds A350 Airliner",
           "descriptionMarketplace": "iniBuilds A350 Airliner",
-          "imageUrl": "https://git.skybound.cx/sap/navigraph-hub/raw/branch/main/inibuilds_logo.png",
-          "imageUrlCommunity": "https://git.skybound.cx/sap/navigraph-hub/raw/branch/main/inibuilds_logo.png",
-          "imageUrlMarketplace": "https://git.skybound.cx/sap/navigraph-hub/raw/branch/main/inibuilds_logo.png",
+          "imageUrl": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/inibuilds_logo.png",
+          "imageUrlCommunity": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/inibuilds_logo.png",
+          "imageUrlMarketplace": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/inibuilds_logo.png",
           "installInWorkfolder": true,
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
@@ -2376,9 +2376,9 @@
           "onlineWorkFolderSubPath": "FMSData",
           "descriptionCommunity": "Aerosoft A340-600 Pro",
           "descriptionMarketplace": "Aerosoft A340-600 Pro",
-          "imageUrl": "https://git.skybound.cx/sap/navigraph-hub/raw/branch/main/aerosoft-a346.png",
-          "imageUrlCommunity": "https://git.skybound.cx/sap/navigraph-hub/raw/branch/main/aerosoft-a346.png",
-          "imageUrlMarketplace": "https://git.skybound.cx/sap/navigraph-hub/raw/branch/main/aerosoft-a346.png",
+          "imageUrl": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/aerosoft-a346.png",
+          "imageUrlCommunity": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/aerosoft-a346.png",
+          "imageUrlMarketplace": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/aerosoft-a346.png",
           "installInWorkfolder": true,
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
