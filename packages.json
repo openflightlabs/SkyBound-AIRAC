@@ -1,0 +1,2406 @@
+[
+  {
+    "addons": [
+      {
+        "addon_id": "9d3dc6a4-81e3-4fdc-8004-028bbfee3a0c"
+      }
+    ],
+    "cycle": "2608",
+    "description": "Navigraph Charts In-Game Panel v8.13",
+    "files": [
+      {
+        "file_id": "f7a34307-7d06-43e0-b2a7-f53b84c38dba",
+        "hash": "e1f958c92905b0311f06b7c5ca47981da2cfa23117f50bf974af0cc36175b6d9",
+        "key": "navigraph-ingamepanels-charts-v8.13.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/1dcjggdxm796s7lny7qvi/navigraph-ingamepanels-charts-v8.13.zip?rlkey=l2443uvqnp1ilmsjnygwci4kj&st=7mwu8elx&dl=1"
+      }
+    ],
+    "format": "navigraph_charts_msfs_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "b0b5ad2e-b167-4a56-85a0-4b3b6a93a6ac",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "manifest": {
+          "creator": "",
+          "manufacturer": "",
+          "title": ""
+        },
+        "options": {
+          "imageUrl": "https://download.devigraph.com/images/navigraph-logo.png",
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "Manifest"
+        },
+        "paths": {
+          "installPaths": [
+            "navigraph-ingamepanels-charts"
+          ],
+          "rootFolderName": "navigraph-ingamepanels-charts"
+        },
+        "simulators": [
+          "msfs2020",
+          "msfs2024"
+        ]
+      }
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "aca7194d-b655-41af-a79f-775450b9f7ef"
+      }
+    ],
+    "cycle": "2608",
+    "description": "Avionics Plugin G3000/G5000 v2.4.1",
+    "files": [
+      {
+        "file_id": "29b7daab-6a11-4ef6-aa83-379adda4e36d",
+        "hash": "161b7047c5dcae3c7669e4f1b61526af4fbd09e563286298364de06d4e8ee2c5",
+        "key": "navigraph-avionics-g3000-g5000-v2.4.1.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/msj444y5lt591ysigl8px/navigraph-avionics-g3000-g5000-v2.4.1.zip?rlkey=c9skw4h8o6jk7j5z38k25yrf4&st=kpthdxwe&dl=1"
+      }
+    ],
+    "format": "navigraph_g3000_msfs_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "28c4b676-e997-43e1-a70d-136435e847d0",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "manifest": {
+          "creator": "",
+          "manufacturer": "",
+          "title": ""
+        },
+        "options": {
+          "imageUrl": "https://download.devigraph.com/images/navigraph-logo.png",
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "Manifest"
+        },
+        "paths": {
+          "installPaths": [
+            "navigraph-avionics-g3000-g5000"
+          ],
+          "rootFolderName": "navigraph-avionics-g3000-g5000"
+        },
+        "simulators": [
+          "msfs2020",
+          "msfs2024"
+        ]
+      }
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "1a501094-fe35-4d80-9bfa-2d72b6ddd0f9"
+      }
+    ],
+    "cycle": "2608",
+    "description": "Avionics Plugin G1000 v2.1.3",
+    "files": [
+      {
+        "file_id": "e30f11c3-cc39-41bc-9323-7a2566e59775",
+        "hash": "705ac2c0d976a161d6d58c4bde7fd0c87409d320b41fad4f233d3b6f1fb1e650",
+        "key": "navigraph-avionics-g1000-v2.1.3.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/5z9k0xbk2q618p0k1lhwu/navigraph-avionics-g1000-v2.1.3.zip?rlkey=s8a3sd7wfxbxaqp8j64ffoesh&st=mh995hai&dl=1"
+      }
+    ],
+    "format": "navigraph_g1000_msfs_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "9ea68da9-177d-4e81-9a4a-17f861e1a080",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "manifest": {
+          "creator": "",
+          "manufacturer": "",
+          "title": ""
+        },
+        "options": {
+          "imageUrl": "https://download.devigraph.com/images/navigraph-logo.png",
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "Manifest"
+        },
+        "paths": {
+          "installPaths": [
+            "navigraph-avionics-g1000"
+          ],
+          "rootFolderName": "navigraph-avionics-g1000"
+        },
+        "simulators": [
+          "msfs2020",
+          "msfs2024"
+        ]
+      }
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "74aaadcc-0d3c-4970-9267-fdd621803ff9"
+      }
+    ],
+    "cycle": "2608",
+    "description": "Avionics Plugin G3X v2.3.1",
+    "files": [
+      {
+        "file_id": "f8ce4bc1-62ed-4503-a999-ac9e431b43dd",
+        "hash": "cc436fdf408ca03aa4a1699773da32e7b3804955fbdbdd7826f9ec2afe9b36d2",
+        "key": "navigraph-avionics-g3x-v2.3.1.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/ahcznxaif0bnemn4epnk1/navigraph-avionics-g3x-v2.3.1.zip?rlkey=p1juaa84ga30vwlce30ezjkn2&st=88drkuob&dl=1"
+      }
+    ],
+    "format": "navigraph_g3x_msfs_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "551e9fbb-e3e0-4796-bb34-a79ce6503e6b",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "manifest": {
+          "creator": "",
+          "manufacturer": "",
+          "title": ""
+        },
+        "options": {
+          "imageUrl": "https://download.devigraph.com/images/navigraph-logo.png",
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "Manifest"
+        },
+        "paths": {
+          "installPaths": [
+            "navigraph-avionics-g3x"
+          ],
+          "rootFolderName": "navigraph-avionics-g3x"
+        },
+        "simulators": [
+          "msfs2020",
+          "msfs2024"
+        ]
+      }
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "94e6a8dd-e35e-418b-a934-49cfdf082655"
+      }
+    ],
+    "cycle": "2608",
+    "description": "SimBrief Dispatch for MSFS v1.3.2",
+    "files": [
+      {
+        "file_id": "9dec13fe-3acd-4e22-a1e1-a372003f8616",
+        "hash": "819cc6038751f4050213b8c37621463829b5761e63457067ab315c3f448025e4",
+        "key": "navigraph-simbrief-dispatch-2020-v1.3.2.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/4adw8zrlca00gkmes2dkm/navigraph-simbrief-dispatch-2020-v1.3.2.zip?rlkey=inwh7fvppt5xtdnz6g5bnpn9p&st=4qdkjdx4&dl=1"
+      }
+    ],
+    "format": "navigraph_simbrief_dispatch_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "46ac1257-0ef9-49ff-9c5e-8654bf94ccb1",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "manifest": {
+          "creator": "",
+          "manufacturer": "",
+          "title": ""
+        },
+        "options": {
+          "imageUrl": "https://download.devigraph.com/images/navigraph-logo.png",
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "Manifest"
+        },
+        "paths": {
+          "installPaths": [
+            "navigraph-simbrief-dispatch-2020"
+          ],
+          "rootFolderName": "navigraph-simbrief-dispatch-2020"
+        },
+        "simulators": [
+          "msfs2020"
+        ]
+      }
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "cbe630c6-7b24-4417-a9fc-83316c8f3b96"
+      }
+    ],
+    "cycle": "2608",
+    "description": "Navigraph EFB Charts App v1.0.9",
+    "files": [
+      {
+        "file_id": "1b56ac8f-7216-4941-9b8a-0c036090b689",
+        "hash": "9f5bfb9b0c63835764274628a820523a45013f69f6710cd55714547795e418e8",
+        "key": "navigraph-efb-chartsapp-v1.0.9.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/r9s635r216l1m2zjulxyz/navigraph-efb-chartsapp-v1.0.9.zip?rlkey=uvo0pydrlhhhnxrx0ldyn7wlx&st=2qalkc2g&dl=1"
+      }
+    ],
+    "format": "navigraph_chartsapp_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "00eb9cf5-2bf4-4fbd-be35-86f5edaf3715",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "manifest": {
+          "creator": "",
+          "manufacturer": "",
+          "title": ""
+        },
+        "options": {
+          "imageUrl": "https://download.devigraph.com/images/navigraph-logo.png",
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "Manifest"
+        },
+        "paths": {
+          "installPaths": [
+            "navigraph-efb-chartsapp"
+          ],
+          "rootFolderName": "navigraph-efb-chartsapp"
+        },
+        "simulators": [
+          "msfs2024"
+        ]
+      }
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "d34c4cdc-8fb9-4e03-8792-5e4e95ee3b26"
+      }
+    ],
+    "cycle": "2608",
+    "description": "SimBrief EFB App v1.3.2",
+    "files": [
+      {
+        "file_id": "fe04ac54-9078-490e-b846-991d59143f32",
+        "hash": "b3d9bedb32052ec5de4d749a137011f0f4a79b253ede5588edccfd0819b0d398",
+        "key": "navigraph-efb-simbriefapp-v1.3.2.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/0chbw5afwf1gypm7nf6f8/navigraph-efb-simbriefapp-v1.3.2.zip?rlkey=ibv8kd6zn6w2bszqfpt2xmnov&st=818gxbuy&dl=1"
+      }
+    ],
+    "format": "navigraph_simbriefapp_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "7574f7ee-15c8-4c4b-b9d1-8d82e5f11493",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "manifest": {
+          "creator": "",
+          "manufacturer": "",
+          "title": ""
+        },
+        "options": {
+          "imageUrl": "https://download.devigraph.com/images/navigraph-logo.png",
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "Manifest"
+        },
+        "paths": {
+          "installPaths": [
+            "navigraph-efb-simbriefapp"
+          ],
+          "rootFolderName": "navigraph-efb-simbriefapp"
+        },
+        "simulators": [
+          "msfs2024"
+        ]
+      }
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "d0b9d135-e775-4619-8585-e21e276ea1b4"
+      }
+    ],
+    "cycle": "2608",
+    "description": "Navigraph Academy Lessons v2.0.0",
+    "files": [
+      {
+        "file_id": "3c24abfb-0129-4086-8f5a-42192ab1478e",
+        "hash": "29a462434943ea4bb17554cb59e824f92a0c4cee8a7fe3e2b76a5848de7fbf56",
+        "key": "navigraph-academy-2020-v2.0.0.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/5up0twb773l1lomwbu6zw/navigraph-academy-2020-v2.0.0.zip?rlkey=hqew4wol4i9hdhcfy38esujzb&st=83poxouk&dl=1"
+      }
+    ],
+    "format": "navigraph_academy_msfs2020_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "f99cdd53-3e3e-4a95-be02-7fc90b2a2ab9",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "manifest": {
+          "creator": "",
+          "manufacturer": "",
+          "title": ""
+        },
+        "options": {
+          "imageUrl": "https://download.navigraph.com/software/hub/images/navigraph-logo.png",
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "Manifest",
+          "watchContentXml": false
+        },
+        "paths": {
+          "installPaths": [
+            "navigraph-academy-2020"
+          ],
+          "rootFolderName": "navigraph-academy-2020"
+        },
+        "simulators": [
+          "msfs2020"
+        ]
+      }
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "141d8a67-7971-4666-8e3c-e5a71359ef8e"
+      }
+    ],
+    "cycle": "2608",
+    "description": "Navigraph Academy Lessons v2.0.0",
+    "files": [
+      {
+        "file_id": "7b6ec2a9-8a73-4b92-bfaa-c3f509966652",
+        "hash": "4e2a4cd86748a3c4d8d912979bc9e17e6e5621e5eff6536ed7d5c0758b007ad1",
+        "key": "navigraph-academy-2024-v2.0.0.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/g81uedonyx575qbemd4ty/navigraph-academy-2024-v2.0.0.zip?rlkey=4mpibwnppl9fr1beb4cbqbgkq&st=rlkfluev&dl=1"
+      }
+    ],
+    "format": "navigraph_academy_msfs2024_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "96a68f2e-8fde-47ba-8f62-5c75adfec859",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "manifest": {
+          "creator": "",
+          "manufacturer": "",
+          "title": ""
+        },
+        "options": {
+          "imageUrl": "https://download.navigraph.com/software/hub/images/navigraph-logo.png",
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "Manifest",
+          "watchContentXml": false
+        },
+        "paths": {
+          "installPaths": [
+            "navigraph-academy-2024"
+          ],
+          "rootFolderName": "navigraph-academy-2024"
+        },
+        "simulators": [
+          "msfs2024"
+        ]
+      }
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "82d89684-0fd1-4024-b9d1-e456ddc578f7"
+      }
+    ],
+    "cycle": "2608",
+    "description": "AIRAC Cycle 2608 rev.1",
+    "files": [
+      {
+        "hash": "edd686c8f042131ae2f5455bb45ffa7a2547fcb073f6cc46d236f053420341bb",
+        "key": "msfs_2608.7z",
+        "signed_url": "https://www.dropbox.com/scl/fi/4y3b11nd84wv2q8lsu0k3/msfs_2608.7z?rlkey=dqag98cgse4w5fyz8y3kp3mzs&st=ztggp5ad&dl=1"
+      }
+    ],
+    "format": "msfs_v2",
+    "format_type": "fmsdata_api_package",
+    "package_id": "41860f59-881a-4076-8a87-65dcd3563129",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "manifest": {
+          "creator": "",
+          "manufacturer": "",
+          "title": ""
+        },
+        "options": {
+          "allowRemoval": true,
+          "allowRemovalForNonSubscribers": true,
+          "imageUrl": "https://download.devigraph.com/images/navigraph-logo.png",
+          "insertAfterPackageEntry": "fs-base-nav",
+          "packageEntries": [
+            {
+              "position": "first",
+              "sourceEntry": "navigraph-navdata-base"
+            },
+            {
+              "position": "last",
+              "sourceEntry": "navigraph-navdata"
+            }
+          ],
+          "packageEntry": "navigraph-navdata",
+          "toggleDefaultNavdata": true,
+          "updateStrategy": "Manifest",
+          "watchContentXml": true
+        },
+        "paths": {
+          "installPaths": [
+            "navigraph-navdata",
+            "navigraph-navdata-base"
+          ],
+          "rootFolderName": "navigraph-navdata"
+        },
+        "simulators": [
+          "msfs2020"
+        ]
+      }
+    },
+    "offline": {
+      "rarSubPath": "MSFS 2020/navigraph-navdata.zip",
+      "needsWrap": false
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "5b54f6d6-a02c-404b-bff2-d45a4fdad931"
+      }
+    ],
+    "cycle": "2608",
+    "description": "CRJ 900/1000",
+    "files": [
+      {
+        "hash": "87383ecca507b915d8a40194c24fb515cc23f89676d1c4a8942f977d33f0fdbc",
+        "key": "Aerosoft-CRJ-900-1000_2608.7z",
+        "signed_url": "https://www.dropbox.com/scl/fi/w4mckl4cprw4no3b86icf/Aerosoft-CRJ-900-1000_2608.7z?rlkey=j79zudbgyd992kl55nwou0hs9&st=1c313qks&dl=1"
+      }
+    ],
+    "format": "aerosoft_navdatacenter",
+    "format_type": "fmsdata_api_package",
+    "package_id": "4227f328-7716-4f98-b183-89e14744557d",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "manifest": {
+          "creator": "Aerosoft",
+          "manufacturer": "Aerosoft",
+          "title": "Aerosoft CRJ"
+        },
+        "options": {
+          "descriptionMarketplace": "Aerosoft CRJ 900/1000",
+          "imageUrl": "https://download.devigraph.com/images/crj-logo-900-1000.png",
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "installPaths": [
+            "aerosoft-crj-900-1000\\Data\\NavData"
+          ],
+          "rootFolderName": "aerosoft-crj-900-1000"
+        }
+      }
+    },
+    "offline": {
+      "rarSubPath": "Aerosoft CRJ/aerosoft_crj_2608.zip",
+      "needsWrap": true,
+      "wrapPrefix": "aerosoft-crj-900-1000/Data"
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "896e5e6d-4ce3-4b6e-8012-97f4ba2c0758"
+      }
+    ],
+    "cycle": "2608",
+    "description": "Aerosoft CRJ Professional",
+    "files": [
+      {
+        "hash": "6068508e7be1c04cf16d4fd18fc81bb2514462fbd3481c36362770659e382f6b",
+        "key": "aerosoft-crj-workfolder-2608.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/gkjf5b8qphyiirmhinvgz/aerosoft-crj-workfolder-2608.zip?rlkey=zsx9eoifunb6gc0t8jt01l9c9&st=e5v0xgp6&dl=1"
+      }
+    ],
+    "format": "aerosoft_crj_workfolder_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "08a2dd63-0f76-41c1-b58c-0484eb0bbc08",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "installInWorkfolder": true,
+        "manifest": {
+          "creator": "Aerosoft",
+          "manufacturer": "Aerosoft",
+          "title": "Aerosoft CRJ"
+        },
+        "options": {
+          "descriptionCommunity": "Aerosoft CRJ V2 (550/700/900/1000)",
+          "descriptionMarketplace": "Aerosoft CRJ V2 (550/700/900/1000)",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/crj-logo-bundle.png",
+          "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/crj-logo-bundle.png",
+          "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/crj-logo-bundle.png",
+          "installInWorkfolder": true,
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "installPaths": [
+            "Aerosoft-CRJ"
+          ],
+          "rootFolderName": "Aerosoft-CRJ",
+          "workFolderInstallPaths": [
+            "Data\\NavData"
+          ]
+        },
+        "simulators": [
+          "msfs2024",
+          "msfs2020"
+        ]
+      }
+    },
+    "offline": {
+      "rarSubPath": "Aerosoft CRJ/aerosoft_crj_2608.zip",
+      "needsWrap": true,
+      "wrapPrefix": "Data"
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "72863077-52ea-4dff-a98a-475b35654e24"
+      }
+    ],
+    "cycle": "2608",
+    "description": "Fly The Maddog",
+    "files": [
+      {
+        "hash": "bae3331eae314dbb2f9f4b8f3c9d45030f14876a25c808da09aca489bb395b00",
+        "key": "flythemaddog-2608.7z",
+        "signed_url": "https://www.dropbox.com/scl/fi/0kocbm0z9609f024vgzlk/flythemaddog-2608.7z?rlkey=n69ddk7wzewlrbap10e5g7lfv&st=504ta9em&dl=1"
+      }
+    ],
+    "format": "flythemaddogx_navdatacenter",
+    "format_type": "fmsdata_api_package",
+    "package_id": "bb112952-449b-45e9-ac6e-6de65d22e2dc",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "installInWorkfolder": true,
+        "manifest": {
+          "creator": "Fly the Maddog",
+          "manufacturer": "Flythemaddog",
+          "title": "Fly the Maddog"
+        },
+        "options": {
+          "descriptionCommunity": "Fly the Maddog",
+          "descriptionMarketplace": "Fly the Maddog",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/maddog-logo.png",
+          "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/maddog-logo.png",
+          "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/maddog-logo.png",
+          "installInWorkfolder": true,
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "installPaths": [
+            "lsh-maddogx-aircraft"
+          ],
+          "rootFolderName": "lsh-maddogx-aircraft",
+          "workFolderInstallPaths": [
+            "Navigraph"
+          ]
+        }
+      }
+    },
+    "offline": {
+      "rarSubPath": "Fly the Maddog X/maddogx-airac-2608.zip",
+      "needsWrap": true,
+      "wrapPrefix": "Navigraph"
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "a3f33beb-6356-4ac0-97b5-96f91ab33570"
+      }
+    ],
+    "cycle": "2608",
+    "description": "Fenix Simulations A320",
+    "files": [
+      {
+        "hash": "8691245089e97d50e22598698d8cf1a09a38d75c0223415789c39f23a226e645",
+        "key": "fenix_2608.7z",
+        "signed_url": "https://www.dropbox.com/scl/fi/qwg2iievq7fawiz5qrm2s/fenix_2608.7z?rlkey=icgoah2kzxcnujipeh6dwewvi&st=ivcjs7fz&dl=1"
+      }
+    ],
+    "format": "fenix_nnc_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "3df036a7-29c4-4b2f-92fb-2a973d6e8f14",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "external": {
+        "manifest": {
+          "creator": "Fenix Simulations",
+          "manufacturer": "Fenix Simulations",
+          "title": "Fenix A320"
+        },
+        "options": {
+          "descriptionCommunity": "Fenix Simulations A320",
+          "descriptionMarketplace": "Fenix Simulations A320",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/fenix-logo.png",
+          "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/fenix-logo.png",
+          "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/fenix-logo.png",
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "externalFolder": "%programdata%\\Fenix",
+          "installPaths": [
+            "Navdata"
+          ],
+          "rootFolderName": "Navdata"
+        }
+      }
+    },
+    "offline": {
+      "rarSubPath": "FENIX A320/fenix_a320_2608.zip",
+      "needsWrap": false
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "96080175-b5df-4908-91c3-8af54d36393e"
+      }
+    ],
+    "cycle": "2608",
+    "description": "Milviz T6A",
+    "files": [
+      {
+        "hash": "876f158a9b9ef854cd79dd944b2e79a030a27fbe9d25eca33c3a3e9276d47b17",
+        "key": "milviz_t6a_2608.7z",
+        "signed_url": "https://www.dropbox.com/scl/fi/350l1c5yki8nqkm18hi3i/milviz_t6a_2608.7z?rlkey=zt5zo0blkwa9if8041qnlx14z&st=q1h9godi&dl=1"
+      }
+    ],
+    "format": "milviz_t6a_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "9ed4fbad-b3cb-4c16-be6c-0ec4736f74ad",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "manifest": {
+          "creator": "Milviz T6-A",
+          "manufacturer": "Blackbird Simulations",
+          "title": "Milviz T6-A"
+        },
+        "options": {
+          "descriptionCommunity": "Milviz T6-A",
+          "descriptionMarketplace": "Milviz T6-A",
+          "imageUrl": "https://download.devigraph.com/images/blackbird-logo.png",
+          "imageUrlCommunity": "https://download.devigraph.com/images/blackbird-logo.png",
+          "imageUrlMarketplace": "https://download.devigraph.com/images/blackbird-logo.png",
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "installPaths": [
+            "milviz-t6a\\Data\\GPSData"
+          ],
+          "rootFolderName": "milviz-t6a"
+        }
+      }
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "17666aa4-dc75-4314-8545-5eb567bb616f"
+      }
+    ],
+    "cycle": "2608",
+    "description": "Talking Flight Monitor",
+    "files": [
+      {
+        "hash": "729c834026f3cf6aadb1c6c9a09a536c2767eaf955e392faa8deff004053b40f",
+        "key": "tfm_2608.7z",
+        "signed_url": "https://www.dropbox.com/scl/fi/kdhwwx0e6qufzjddiup7k/tfm_2608.7z?rlkey=wbsxpt4nwy5ipd9cz8z79ity7&st=oxhwiwfc&dl=1"
+      }
+    ],
+    "format": "tfm_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "ac06b529-0da0-41ee-b0f1-93a1436bdc44",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "external": {
+        "manifest": {
+          "creator": "Talking Flight Monitor",
+          "manufacturer": "Talking Flight Monitor",
+          "title": "Talking Flight Monitor"
+        },
+        "options": {
+          "descriptionCommunity": "",
+          "descriptionMarketplace": "Talking Flight Monitor",
+          "imageUrl": "",
+          "imageUrlCommunity": "https://download.devigraph.com/images/fenix-logo.png",
+          "imageUrlMarketplace": "https://download.devigraph.com/images/tfm.png",
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "externalFolder": "%localappdata%\\tfm",
+          "installPaths": [
+            "Navdata"
+          ],
+          "rootFolderName": "Navdata"
+        }
+      }
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "ebb0fe4c-7787-43b6-bea2-a38be8408e56"
+      }
+    ],
+    "cycle": "2608",
+    "description": "FSiPanel",
+    "files": [
+      {
+        "hash": "8ad042edea232a0cab374e3fb1d948eacfa12ad9f83ab98991100b016de9e2bb",
+        "key": "fsipanel_2608.7z",
+        "signed_url": "https://www.dropbox.com/scl/fi/uanhgv63b7qgwgdz6kvsq/fsipanel_2608.7z?rlkey=dh8rh8xv085c9vkxmk9etnczi&st=5fp4jd9b&dl=1"
+      }
+    ],
+    "format": "fsipanel_v2",
+    "format_type": "fmsdata_api_package",
+    "package_id": "fb27e716-2c48-4bd2-8c10-805179beb534",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "external": {
+        "manifest": {
+          "creator": "FSiPanel",
+          "manufacturer": "FSiPanel",
+          "title": "FSiPanel"
+        },
+        "options": {
+          "descriptionCommunity": "",
+          "descriptionMarketplace": "FSiPanel",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/fsipanel-logo.png",
+          "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/fsipanel-logo.png",
+          "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/fsipanel-logo.png",
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "externalFolder": "%appdata%\\FSiPanelNavDB",
+          "installPaths": [
+            "Navdata"
+          ],
+          "rootFolderName": "NavData"
+        }
+      }
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "cd1f728d-428d-4322-bf6d-d0c6174c8ebe"
+      }
+    ],
+    "cycle": "2608",
+    "description": "2608r1",
+    "files": [
+      {
+        "hash": "7ec04a27214135da8dac7a7c6e9d8b52b03e7d4028486e02d6fe07ba5ceb9af5",
+        "key": "tds_gtnxi_2608.7z",
+        "signed_url": "https://www.dropbox.com/scl/fi/vxi24cf9uxttz2rn1frby/tds_gtnxi_2608.7z?rlkey=2g9a36qnzeqfbr4dgjwqen79e&st=i404p0b5&dl=1"
+      }
+    ],
+    "format": "tds_gtnxi_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "220c127b-4443-4030-9540-60c12b0fa795",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "external": {
+        "manifest": {
+          "creator": "TDS GTNXi (Pro Upgrade)",
+          "manufacturer": "TDS GTNXi (Pro Upgrade)",
+          "title": "TDS GTNXi (Pro Upgrade)"
+        },
+        "options": {
+          "descriptionCommunity": "TDS GTNXi (Pro Upgrade)",
+          "descriptionMarketplace": "TDS GTNXi (Pro Upgrade)",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/tds-logo.png",
+          "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/tds-logo.png",
+          "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/tds-logo.png",
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "externalFolder": "%appdata%\\TDS\\GTNXi\\Database",
+          "installPaths": [
+            "MSFS"
+          ],
+          "rootFolderName": "MSFS"
+        }
+      }
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "1280d132-db32-4d3d-9a0d-3ad5da574815"
+      }
+    ],
+    "cycle": "2608",
+    "description": "HiFi Active Sky FS",
+    "files": [
+      {
+        "hash": "38a04a70b2d67f5ff22892f7cd595e81bac81ff4d7a96778141be713a7222ef6",
+        "key": "hifi_asfs_2608.7z",
+        "signed_url": "https://www.dropbox.com/scl/fi/v5korll62s4cl2td3wxo5/hifi_asfs_2608.7z?rlkey=effhxxwawprv4ehaqco3a8m76&st=mdf7pvzh&dl=1"
+      }
+    ],
+    "format": "hifi_v2",
+    "format_type": "fmsdata_api_package",
+    "package_id": "4e5bd31d-9299-41db-88cf-494f1b805f46",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "external": {
+        "manifest": {
+          "creator": "HiFi",
+          "manufacturer": "HiFi",
+          "title": "HiFi"
+        },
+        "options": {
+          "descriptionCommunity": "Hifi Active Sky FS",
+          "descriptionMarketplace": "HiFi Active Sky FS",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/activesky-logo.png",
+          "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/activesky-logo.png",
+          "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/activesky-logo.png",
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "externalFolder": "%appdata%\\HiFi\\AS_FS\\NavigraphData",
+          "installPaths": [
+            "AS"
+          ],
+          "rootFolderName": "AS"
+        }
+      }
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "bb560102-5877-4382-8897-255914e1ad66"
+      }
+    ],
+    "cycle": "2608",
+    "description": "iFly 737 Max8 MSFS2020",
+    "files": [
+      {
+        "hash": "0bab1e4a07cd485c85900736718ee06622cb8e0c4c146dd8a36f005bd4a5b498",
+        "key": "ifly-aircraft-737max8_2020_2608.7z",
+        "signed_url": "https://www.dropbox.com/scl/fi/zgbzl40dwx0tyzw259b6f/ifly-aircraft-737max8_2020_2608.7z?rlkey=9nfzzd895rnxiay1mi1v9eldf&st=p4k1w0zv&dl=1"
+      }
+    ],
+    "format": "ifly_737max8_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "5cc3e737-6ec9-444f-a5b4-ef994b728fba",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "manifest": {
+          "creator": "iFly 737 Max8",
+          "manufacturer": "iFly",
+          "title": "iFly 737 Max8"
+        },
+        "options": {
+          "descriptionCommunity": "iFly 737 Max8",
+          "descriptionMarketplace": "iFly 737 Max8",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/ifly-logo.png",
+          "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/ifly-logo.png",
+          "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/ifly-logo.png",
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "installPaths": [
+            "ifly-aircraft-737max8\\Data\\navdata\\Permanent"
+          ],
+          "rootFolderName": "ifly-aircraft-737max8"
+        },
+        "simulators": [
+          "msfs2020"
+        ]
+      }
+    },
+    "offline": {
+      "rarSubPath": "iFly 737 MAX 8/ifly_b737max8_2608.zip",
+      "needsWrap": true,
+      "wrapPrefix": "ifly-aircraft-737max8/Data/navdata"
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "e95a3b4a-f277-49e0-b044-d1d88e18cc4f"
+      }
+    ],
+    "cycle": "2608",
+    "description": "Aerosoft A300-PW",
+    "files": [
+      {
+        "hash": "4475e3c0219757d194b6d9ac2c9370b1558f47715e336e255690392a769d8031",
+        "key": "aerosoft-aircraft-a333-pw_2608.7z",
+        "signed_url": "https://www.dropbox.com/scl/fi/v05eakhqal50ixl1kdtrg/aerosoft-aircraft-a333-pw_2608.7z?rlkey=8tmlykipzidv1k5ps7nzv54vg&st=465lijp8&dl=1"
+      }
+    ],
+    "format": "aerosoft_a300_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "1586a73a-1fa9-4292-bf49-be12662cc662",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "manifest": {
+          "creator": "Aerosoft A333 PW",
+          "manufacturer": "Aerosoft",
+          "title": "Aerosoft A333 PW"
+        },
+        "options": {
+          "descriptionCommunity": "Aerosoft A333 PW",
+          "descriptionMarketplace": "Aerosoft A333 PW",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/aerosoft-a330.jpg",
+          "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/aerosoft-a330.jpg",
+          "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/aerosoft-a330.jpg",
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "installPaths": [
+            "aerosoft-aircraft-a333-pw\\Data\\NavDataPro"
+          ],
+          "rootFolderName": "aerosoft-aircraft-a333-pw"
+        }
+      }
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "44c2bba4-4383-41ad-8da0-391547d27a57"
+      }
+    ],
+    "cycle": "2608",
+    "description": "FlightSimLabs A321",
+    "files": [
+      {
+        "hash": "d84ea5534df38beeb80acc7f8b68218edee1feb709f4498e6cf1987c85f85aa2",
+        "key": "fslabs-a321-2608.7z",
+        "signed_url": "https://www.dropbox.com/scl/fi/nr3aok58wa8bnqe9gx0ri/fslabs-a321-2608.7z?rlkey=jg13nmsk9igc4t4ha4hlry6wg&st=dpbufiit&dl=1"
+      }
+    ],
+    "format": "flightsimlabs_a321_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "1d352c51-f403-4b6c-b783-af6feee6f77b",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "external": {
+        "manifest": {
+          "creator": "Flight Sim Labs A321",
+          "manufacturer": "Flight Sim Labs A321",
+          "title": "Flight Sim Labs A321"
+        },
+        "options": {
+          "descriptionCommunity": "Flight Sim Labs A321",
+          "descriptionMarketplace": "Flight Sim Labs A321",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/flightsimlabs-logo.png",
+          "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/flightsimlabs-logo.png",
+          "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/flightsimlabs-logo.png",
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "externalFolder": "%appdata%\\FSLabs_NAVData",
+          "installPaths": [
+            "NavData"
+          ],
+          "rootFolderName": "NavData"
+        }
+      }
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "f69e1d43-885d-46aa-bd5f-99a378d09121"
+      }
+    ],
+    "cycle": "2608",
+    "description": "AIRAC Cycle 2608 rev.1",
+    "files": [
+      {
+        "hash": "0bd53fd4348dbc0c1c7c4e5b9bd55ac5789fa435a3680e55a66256ae8712cbe3",
+        "key": "msfs2024_2608.7z",
+        "signed_url": "https://www.dropbox.com/scl/fi/b6p01i4ib68mqqccju0np/msfs2024_2608.7z?rlkey=3le1ldzgvxs2toiud8e8vldxi&st=1uv9qwnp&dl=1"
+      }
+    ],
+    "format": "msfs_v3",
+    "format_type": "fmsdata_api_package",
+    "package_id": "65d4e245-d1d9-4856-8fc1-a00a5d48eb93",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "manifest": {
+          "creator": "",
+          "manufacturer": "",
+          "title": ""
+        },
+        "options": {
+          "allowRemovalForNonSubscribers": true,
+          "imageUrl": "https://download.navigraph.com/software/hub/images/navigraph-logo.png",
+          "insertAfterPackageEntry": "fs-base-nav",
+          "toggleDefaultNavdata": true,
+          "updateStrategy": "Manifest",
+          "watchContentXml": false
+        },
+        "paths": {
+          "installPaths": [
+            "}}}navigraph-nav-jepp",
+            "!!!navigraph-nav-base",
+            "navigraph-nav-jepp",
+            "navigraph-nav-base",
+            "navigraph-navdata",
+            "navigraph-navdata-base"
+          ],
+          "rootFolderName": "navigraph-nav-jepp"
+        },
+        "simulators": [
+          "msfs2024"
+        ]
+      }
+    },
+    "offline": {
+      "rarSubPath": "MSFS 2024/msfs2024_2608_rev1.beta.zip",
+      "needsWrap": false
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "7ab0d308-a6a4-472a-afc6-145346b7ea79"
+      }
+    ],
+    "cycle": "2608",
+    "description": "Just Flight F28 Professional",
+    "files": [
+      {
+        "hash": "58b2e8cd4636c673eab9c9975a2e1e72effb5676e8197c6271982d0403f49e7f",
+        "key": "justflight-aircraft-workfolder-2608.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/ydetmsu8evpivxwh6d8eq/justflight-aircraft-workfolder-2608.zip?rlkey=z0poj85ofpmydg5h7ns2qzyka&st=5cq87ige&dl=1"
+      }
+    ],
+    "format": "justflight_f28_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "85a8ee59-9709-441f-867c-e9c4ccdff238",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "installInWorkfolder": true,
+        "manifest": {
+          "creator": "JustFlight",
+          "manufacturer": "JustFlight",
+          "title": "Just Flight F28 Professional"
+        },
+        "options": {
+          "descriptionCommunity": "Just Flight F28 Professional v2.2+",
+          "descriptionMarketplace": "Just Flight F28 Professional v2.2+",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/jusflight-logo.png",
+          "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
+          "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
+          "installInWorkfolder": true,
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "installPaths": [
+            "justflight-aircraft-f28"
+          ],
+          "rootFolderName": "justflight-aircraft-f28",
+          "workFolderInstallPaths": [
+            "JustFlight\\navdata"
+          ]
+        },
+        "simulators": [
+          "msfs2024",
+          "msfs2020"
+        ]
+      }
+    },
+    "offline": {
+      "rarSubPath": "Just Flight - BAe 146/jf_146_prof_msfs_2608.zip",
+      "needsWrap": true,
+      "wrapPrefix": "JustFlight"
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "64a50b91-e59e-48c4-8af2-154b79269930"
+      }
+    ],
+    "cycle": "2608",
+    "description": "CSS 737-500",
+    "files": [
+      {
+        "hash": "73f7a60e55668f1e87adf0c7966303e21198503a3a1ff9639e73ea988b5a1b5a",
+        "key": "css-737-2608.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/ad5vgcotsos9e1mb01ez5/css-737-2608.zip?rlkey=tjok9m041c35987fnp6dqstb6&st=w64mx5kb&dl=1"
+      }
+    ],
+    "format": "css_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "e6f33dfc-1a03-47c8-8206-ae02866db026",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "manifest": {
+          "creator": "Commercial Simulation Systems",
+          "manufacturer": "Commercial Simulation Systems",
+          "title": "CSS-737"
+        },
+        "options": {
+          "descriptionCommunity": "CSS-737",
+          "descriptionMarketplace": "CSS 737",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/css-logo.png",
+          "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/css-logo.png",
+          "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/css-logo.png",
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "installPaths": [
+            "css-core\\data\\NavData\\Active"
+          ],
+          "rootFolderName": "css-core"
+        }
+      }
+    },
+    "offline": {
+      "rarSubPath": "CSS 737/css_737_msfs_2608.zip",
+      "needsWrap": true,
+      "wrapPrefix": "css-core/data"
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "a9df7e3c-7589-4b75-86ff-4b41e9c802b3"
+      }
+    ],
+    "cycle": "2608",
+    "description": "iFly 737 Max8 MSFS2024",
+    "files": [
+      {
+        "hash": "277ad139fb2ae0733a1db4aceb303507dae2f16234a3b058abba9bd08679db83",
+        "key": "ifly-aircraft-737max8_2024_2608.7z",
+        "signed_url": "https://www.dropbox.com/scl/fi/0dh659nvozzwr0xxxp26m/ifly-aircraft-737max8_2024_2608.7z?rlkey=4h1yc0eni8k4ixkjyyfho0icv&st=1wfnezie&dl=1"
+      }
+    ],
+    "format": "ifly_737max8_workfolder_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "0fa8f608-1a47-4ffd-9498-012f84ef2321",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "installInWorkfolder": true,
+        "manifest": {
+          "creator": "iFly 737 Max8",
+          "manufacturer": "iFly",
+          "title": "iFly 737 Max8"
+        },
+        "options": {
+          "descriptionCommunity": "iFly 737 Max8",
+          "descriptionMarketplace": "iFly 737 Max8",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/ifly-logo.png",
+          "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/ifly-logo.png",
+          "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/ifly-logo.png",
+          "installInWorkfolder": true,
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "installPaths": [
+            "ifly-aircraft-737max8"
+          ],
+          "rootFolderName": "ifly-aircraft-737max8",
+          "workFolderInstallPaths": [
+            "navdata\\Permanent"
+          ]
+        },
+        "simulators": [
+          "msfs2024"
+        ]
+      }
+    },
+    "offline": {
+      "rarSubPath": "iFly 737 MAX 8/ifly_b737max8_2608.zip",
+      "needsWrap": true,
+      "wrapPrefix": "navdata"
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "9ac45720-0838-417a-88db-7637cb788ce3"
+      }
+    ],
+    "cycle": "2608",
+    "description": "PMDG 737-800",
+    "files": [
+      {
+        "hash": "822bb0310d4e4aa3d5f4bb95ad6b96f865f6c10b78156f790e60e9f2f37227e6",
+        "key": "pmdg-aircraft-workfolder-2608.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/ixac8tqbo1gqxwchebpcq/pmdg-aircraft-workfolder-2608.zip?rlkey=8n65uua346g23e3nqop85fffi&st=mj14wxa6&dl=1"
+      }
+    ],
+    "format": "pmdg_workfolder_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "59b38ee0-7e67-4eb9-8c5a-e6be8585560b",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "installInWorkfolder": true,
+        "manifest": {
+          "creator": "PMDG 737-800",
+          "manufacturer": "PMDG",
+          "title": "PMDG 737-800"
+        },
+        "options": {
+          "descriptionCommunity": "PMDG 737-800",
+          "descriptionMarketplace": "PMDG 737-800",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "installInWorkfolder": true,
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "installPaths": [
+            "pmdg-aircraft-738"
+          ],
+          "rootFolderName": "pmdg-aircraft-738",
+          "workFolderInstallPaths": [
+            "NavigationData"
+          ]
+        },
+        "simulators": [
+          "msfs2024",
+          "msfs2020"
+        ]
+      }
+    },
+    "offline": {
+      "rarSubPath": "PMDG MSFS/pmdg_2608.zip",
+      "needsWrap": false
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "8c0f22c1-7283-4df3-9311-a894a9420838"
+      }
+    ],
+    "cycle": "2608",
+    "description": "PMDG 777W (2020+2024)",
+    "files": [
+      {
+        "hash": "822bb0310d4e4aa3d5f4bb95ad6b96f865f6c10b78156f790e60e9f2f37227e6",
+        "key": "pmdg-aircraft-workfolder-2608.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/ixac8tqbo1gqxwchebpcq/pmdg-aircraft-workfolder-2608.zip?rlkey=8n65uua346g23e3nqop85fffi&st=mj14wxa6&dl=1"
+      }
+    ],
+    "format": "pmdg_workfolder_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "aed6b008-9961-4f38-b456-b712984ec9ac",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "installInWorkfolder": true,
+        "manifest": {
+          "creator": "PMDG 777-300ER",
+          "manufacturer": "PMDG",
+          "title": "PMDG 777-300ER"
+        },
+        "options": {
+          "descriptionCommunity": "PMDG 777-300ER",
+          "descriptionMarketplace": "PMDG 777-300ER",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "installInWorkfolder": true,
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "installPaths": [
+            "pmdg-aircraft-77w"
+          ],
+          "rootFolderName": "pmdg-aircraft-77w",
+          "workFolderInstallPaths": [
+            "NavigationData"
+          ]
+        },
+        "simulators": [
+          "msfs2020",
+          "msfs2024"
+        ]
+      }
+    },
+    "offline": {
+      "rarSubPath": "PMDG MSFS/pmdg_2608.zip",
+      "needsWrap": false
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "c3c13956-73b9-422c-82fd-3e59c061ad6b"
+      }
+    ],
+    "cycle": "2608",
+    "description": "PMDG 737-700",
+    "files": [
+      {
+        "hash": "822bb0310d4e4aa3d5f4bb95ad6b96f865f6c10b78156f790e60e9f2f37227e6",
+        "key": "pmdg-aircraft-workfolder-2608.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/ixac8tqbo1gqxwchebpcq/pmdg-aircraft-workfolder-2608.zip?rlkey=8n65uua346g23e3nqop85fffi&st=mj14wxa6&dl=1"
+      }
+    ],
+    "format": "pmdg_workfolder_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "1b8e170b-7182-40e1-aa30-ddb5efeceff1",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "installInWorkfolder": true,
+        "manifest": {
+          "creator": "PMDG 737-700",
+          "manufacturer": "PMDG",
+          "title": "PMDG 737-700"
+        },
+        "options": {
+          "descriptionCommunity": "PMDG 737-700",
+          "descriptionMarketplace": "PMDG 737-700",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "installInWorkfolder": true,
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "installPaths": [
+            "pmdg-aircraft-737"
+          ],
+          "rootFolderName": "pmdg-aircraft-737",
+          "workFolderInstallPaths": [
+            "NavigationData"
+          ]
+        },
+        "simulators": [
+          "msfs2024",
+          "msfs2020"
+        ]
+      }
+    },
+    "offline": {
+      "rarSubPath": "PMDG MSFS/pmdg_2608.zip",
+      "needsWrap": false
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "d54be168-5539-4d2c-99d7-b83a0d91a1b3"
+      }
+    ],
+    "cycle": "2608",
+    "description": "PMDG 737-600",
+    "files": [
+      {
+        "hash": "822bb0310d4e4aa3d5f4bb95ad6b96f865f6c10b78156f790e60e9f2f37227e6",
+        "key": "pmdg-aircraft-workfolder-2608.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/ixac8tqbo1gqxwchebpcq/pmdg-aircraft-workfolder-2608.zip?rlkey=8n65uua346g23e3nqop85fffi&st=mj14wxa6&dl=1"
+      }
+    ],
+    "format": "pmdg_workfolder_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "318c87e9-5387-483b-9af2-1544ddee9dde",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "installInWorkfolder": true,
+        "manifest": {
+          "creator": "PMDG 737-600",
+          "manufacturer": "PMDG",
+          "title": "PMDG 737-600"
+        },
+        "options": {
+          "descriptionCommunity": "PMDG 737-600",
+          "descriptionMarketplace": "PMDG 737-600",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "installInWorkfolder": true,
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "installPaths": [
+            "pmdg-aircraft-736"
+          ],
+          "rootFolderName": "pmdg-aircraft-736",
+          "workFolderInstallPaths": [
+            "NavigationData"
+          ]
+        },
+        "simulators": [
+          "msfs2024",
+          "msfs2020"
+        ]
+      }
+    },
+    "offline": {
+      "rarSubPath": "PMDG MSFS/pmdg_2608.zip",
+      "needsWrap": false
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "1b793dfb-1684-4b28-a4bb-647694401242"
+      }
+    ],
+    "cycle": "2608",
+    "description": "PMDG 777F (2020+2024)",
+    "files": [
+      {
+        "hash": "822bb0310d4e4aa3d5f4bb95ad6b96f865f6c10b78156f790e60e9f2f37227e6",
+        "key": "pmdg-aircraft-workfolder-2608.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/ixac8tqbo1gqxwchebpcq/pmdg-aircraft-workfolder-2608.zip?rlkey=8n65uua346g23e3nqop85fffi&st=mj14wxa6&dl=1"
+      }
+    ],
+    "format": "pmdg_workfolder_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "31beca48-25d7-47f8-9a4b-687c34167106",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "installInWorkfolder": true,
+        "manifest": {
+          "creator": "PMDG 777F",
+          "manufacturer": "PMDG",
+          "title": "PMDG 777F"
+        },
+        "options": {
+          "descriptionCommunity": "PMDG 777F",
+          "descriptionMarketplace": "PMDG 777F",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "installInWorkfolder": true,
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "installPaths": [
+            "pmdg-aircraft-77f"
+          ],
+          "rootFolderName": "pmdg-aircraft-77f",
+          "workFolderInstallPaths": [
+            "NavigationData"
+          ]
+        },
+        "simulators": [
+          "msfs2020",
+          "msfs2024"
+        ]
+      }
+    },
+    "offline": {
+      "rarSubPath": "PMDG MSFS/pmdg_2608.zip",
+      "needsWrap": false
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "53772483-b2f8-4f4f-9e20-c8fabac48c41"
+      }
+    ],
+    "cycle": "2608",
+    "description": "PMDG 777-200ER",
+    "files": [
+      {
+        "hash": "822bb0310d4e4aa3d5f4bb95ad6b96f865f6c10b78156f790e60e9f2f37227e6",
+        "key": "pmdg-aircraft-workfolder-2608.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/ixac8tqbo1gqxwchebpcq/pmdg-aircraft-workfolder-2608.zip?rlkey=8n65uua346g23e3nqop85fffi&st=mj14wxa6&dl=1"
+      }
+    ],
+    "format": "pmdg_workfolder_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "0f576292-8f00-4585-b491-c09158003c50",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "installInWorkfolder": true,
+        "manifest": {
+          "creator": "PMDG 777-200ER",
+          "manufacturer": "PMDG",
+          "title": "PMDG 777-20ER"
+        },
+        "options": {
+          "descriptionCommunity": "PMDG 777-200ER",
+          "descriptionMarketplace": "PMDG 777-200ER",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "installInWorkfolder": true,
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "installPaths": [
+            "pmdg-aircraft-77er"
+          ],
+          "rootFolderName": "pmdg-aircraft-77er",
+          "workFolderInstallPaths": [
+            "NavigationData"
+          ]
+        },
+        "simulators": [
+          "msfs2024",
+          "msfs2020"
+        ]
+      }
+    },
+    "offline": {
+      "rarSubPath": "PMDG MSFS/pmdg_2608.zip",
+      "needsWrap": false
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "4d5e29ea-10b0-42c3-a913-bd0ea6cb9f9f"
+      }
+    ],
+    "cycle": "2608",
+    "description": "PMDG 737-900",
+    "files": [
+      {
+        "hash": "822bb0310d4e4aa3d5f4bb95ad6b96f865f6c10b78156f790e60e9f2f37227e6",
+        "key": "pmdg-aircraft-workfolder-2608.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/ixac8tqbo1gqxwchebpcq/pmdg-aircraft-workfolder-2608.zip?rlkey=8n65uua346g23e3nqop85fffi&st=mj14wxa6&dl=1"
+      }
+    ],
+    "format": "pmdg_workfolder_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "597ea919-62ab-4ac9-aad3-5ae41598ae10",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "installInWorkfolder": true,
+        "manifest": {
+          "creator": "PMDG 737-900",
+          "manufacturer": "PMDG",
+          "title": "PMDG 737-900"
+        },
+        "options": {
+          "descriptionCommunity": "PMDG 737-900",
+          "descriptionMarketplace": "PMDG 737-900",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "installInWorkfolder": true,
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "installPaths": [
+            "pmdg-aircraft-739"
+          ],
+          "rootFolderName": "pmdg-aircraft-739",
+          "workFolderInstallPaths": [
+            "NavigationData"
+          ]
+        },
+        "simulators": [
+          "msfs2024",
+          "msfs2020"
+        ]
+      }
+    },
+    "offline": {
+      "rarSubPath": "PMDG MSFS/pmdg_2608.zip",
+      "needsWrap": false
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "c3ecd76f-1f2e-4a19-b9ec-1bfb9c5c786d"
+      }
+    ],
+    "cycle": "2608",
+    "description": "PMDG 777-200LR",
+    "files": [
+      {
+        "hash": "822bb0310d4e4aa3d5f4bb95ad6b96f865f6c10b78156f790e60e9f2f37227e6",
+        "key": "pmdg-aircraft-workfolder-2608.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/ixac8tqbo1gqxwchebpcq/pmdg-aircraft-workfolder-2608.zip?rlkey=8n65uua346g23e3nqop85fffi&st=mj14wxa6&dl=1"
+      }
+    ],
+    "format": "pmdg_workfolder_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "96f78428-9a31-4236-8159-231c62d507b5",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "installInWorkfolder": true,
+        "manifest": {
+          "creator": "PMDG 777-200LR",
+          "manufacturer": "PMDG",
+          "title": "PMDG 777-200LR"
+        },
+        "options": {
+          "descriptionCommunity": "PMDG 777-200LR",
+          "descriptionMarketplace": "PMDG 777-200LR",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "installInWorkfolder": true,
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "installPaths": [
+            "pmdg-aircraft-77l"
+          ],
+          "rootFolderName": "pmdg-aircraft-77l",
+          "workFolderInstallPaths": [
+            "NavigationData"
+          ]
+        },
+        "simulators": [
+          "msfs2024",
+          "msfs2020"
+        ]
+      }
+    },
+    "offline": {
+      "rarSubPath": "PMDG MSFS/pmdg_2608.zip",
+      "needsWrap": false
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "495e19ac-df2d-46fa-9178-07d2ff3b226e"
+      }
+    ],
+    "cycle": "2608",
+    "description": "Blackbird D30",
+    "files": [
+      {
+        "hash": "744a154c2edcaba69c6e9b58b992ea8d07a0dacef834f192a0b243080a50d6ae",
+        "key": "blackbird-d30-workfolder-2608.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/rrghxvw31h4270752labt/blackbird-d30-workfolder-2608.zip?rlkey=u34nwc4eb6rnisxm6bidqzd0z&st=jmc0wyje&dl=1"
+      }
+    ],
+    "format": "milviz_d30_workfolder_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "ab856a82-7122-4760-86d0-fb6ceaffc3f3",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "installInWorkfolder": true,
+        "manifest": {
+          "creator": "Blackbird Simulations",
+          "manufacturer": "Blackbird Simulations",
+          "title": "Blackbird D30"
+        },
+        "options": {
+          "descriptionCommunity": "Blackbird D30",
+          "descriptionMarketplace": "Blackbird D30",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/blackbird-logo.png",
+          "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/blackbird-logo.png",
+          "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/blackbird-logo.png",
+          "installInWorkfolder": true,
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "installPaths": [
+            "milviz-aircraft-d30"
+          ],
+          "rootFolderName": "milviz-aircraft-d30",
+          "workFolderInstallPaths": [
+            "Navdata"
+          ]
+        },
+        "simulators": [
+          "msfs2024"
+        ]
+      }
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "548140df-6c37-44ad-ab4a-435e609ec266"
+      }
+    ],
+    "cycle": "2608",
+    "description": "Just Flight Avro Rj Professional",
+    "files": [
+      {
+        "hash": "58b2e8cd4636c673eab9c9975a2e1e72effb5676e8197c6271982d0403f49e7f",
+        "key": "justflight-aircraft-workfolder-2608.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/ydetmsu8evpivxwh6d8eq/justflight-aircraft-workfolder-2608.zip?rlkey=z0poj85ofpmydg5h7ns2qzyka&st=5cq87ige&dl=1"
+      }
+    ],
+    "format": "justflight_rj_avro_workfolder_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "507b3275-5922-4720-84f0-7f8381ae904d",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "installInWorkfolder": true,
+        "manifest": {
+          "creator": "JustFlight",
+          "manufacturer": "JustFlight",
+          "title": "Just Flight RJ Professional"
+        },
+        "options": {
+          "descriptionCommunity": "Just Flight RJ Professional 1.4+",
+          "descriptionMarketplace": "Just Flight RJ Professional 1.4+",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/jusflight-logo.png",
+          "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
+          "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
+          "installInWorkfolder": true,
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "installPaths": [
+            "justflight-aircraft-rj"
+          ],
+          "rootFolderName": "justflight-aircraft-rj",
+          "workFolderInstallPaths": [
+            "JustFlight\\navdata"
+          ]
+        },
+        "simulators": [
+          "msfs2024",
+          "msfs2020"
+        ]
+      }
+    },
+    "offline": {
+      "rarSubPath": "Just Flight - BAe 146/jf_146_prof_msfs_2608.zip",
+      "needsWrap": true,
+      "wrapPrefix": "JustFlight"
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "dc1d5d15-619b-4789-a7f9-11e609fdaf20"
+      }
+    ],
+    "cycle": "2608",
+    "description": "Aero Dynamics T-38C",
+    "files": [
+      {
+        "hash": "68ffde671649d84a6f51a788955c1b0d99634f3145ac3ced1b8cffeb67613626",
+        "key": "aerodynamics-t38c-workfolder-2608.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/yfpl2nty4ye2efd5tg3o4/aerodynamics-t38c-workfolder-2608.zip?rlkey=ui9gms3ffmw1pxl7x15gjsm6m&st=p7jkods2&dl=1"
+      }
+    ],
+    "format": "aerodynamics_dfdv2_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "9af72510-6869-4a21-9bf4-779013d9eaf4",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "installInWorkfolder": true,
+        "manifest": {
+          "creator": "Aero Dynamics",
+          "manufacturer": "Aero Dynamics",
+          "title": "Aero Dynamics T-38C"
+        },
+        "options": {
+          "descriptionCommunity": "Aero Dynamics T-38C",
+          "descriptionMarketplace": "Aero Dynamics T-38C",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/aerodynamics-logo.png",
+          "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/aerodynamics-logo.png",
+          "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/aerodynamics-logo.png",
+          "installInWorkfolder": true,
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "installPaths": [
+            "aerodynamics-t38c"
+          ],
+          "rootFolderName": "aerodynamics-t38c",
+          "workFolderInstallPaths": [
+            "NavigationData"
+          ]
+        },
+        "simulators": [
+          "msfs2024"
+        ]
+      }
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "151cbd7c-3e94-4a61-b03e-3289cdba3275"
+      }
+    ],
+    "cycle": "2608",
+    "description": "Just Flight 146",
+    "files": [
+      {
+        "hash": "58b2e8cd4636c673eab9c9975a2e1e72effb5676e8197c6271982d0403f49e7f",
+        "key": "justflight-aircraft-workfolder-2608.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/ydetmsu8evpivxwh6d8eq/justflight-aircraft-workfolder-2608.zip?rlkey=z0poj85ofpmydg5h7ns2qzyka&st=5cq87ige&dl=1"
+      }
+    ],
+    "format": "justflight_146_workfolder_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "5f03bf14-5edb-4a43-92b0-7b3afe54fec9",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "installInWorkfolder": true,
+        "manifest": {
+          "creator": "Just Flight",
+          "manufacturer": "Just Flight",
+          "title": "Just Flight 146 Professional 2.4+"
+        },
+        "options": {
+          "descriptionCommunity": "Just Flight 146 Professional 2.4+",
+          "descriptionMarketplace": "Just Flight 146 Professional 2.4+",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
+          "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
+          "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
+          "installInWorkfolder": true,
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "installPaths": [
+            "justflight-aircraft-146"
+          ],
+          "rootFolderName": "justflight-aircraft-146",
+          "workFolderInstallPaths": [
+            "JustFlight\\navdata"
+          ]
+        },
+        "simulators": [
+          "msfs2024",
+          "msfs2020"
+        ]
+      }
+    },
+    "offline": {
+      "rarSubPath": "Just Flight - BAe 146/jf_146_prof_msfs_2608.zip",
+      "needsWrap": true,
+      "wrapPrefix": "JustFlight"
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "8cecf8f6-a03f-44f3-8251-1465ab02b465"
+      }
+    ],
+    "cycle": "2608",
+    "description": "FYCYC C919X",
+    "files": [
+      {
+        "hash": "5259d5ceda04efe29dfa891452a30a5ea93f1ce922e3cad7081c8aedf9822978",
+        "key": "fycyc-c919x-2608.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/azg0s6si471goj0mz1v54/fycyc-c919x-2608.zip?rlkey=n9byzjkmsji4oyjnfor54izgu&st=uviyy8jd&dl=1"
+      }
+    ],
+    "format": "fycyc_dfd2_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "173f7dcd-bb58-471e-97bd-3734567d09dd",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "installInWorkfolder": true,
+        "manifest": {
+          "creator": "FYCYC C919X",
+          "manufacturer": "FYCYC",
+          "title": "FYCYC C919X"
+        },
+        "options": {
+          "descriptionCommunity": "FYCYC C919X",
+          "descriptionMarketplace": "FYCYC C919X",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/fycyc-logo.png",
+          "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/fycyc-logo.png",
+          "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/fycyc-logo.png",
+          "installInWorkfolder": true,
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "installPaths": [
+            "fycyc-aircraft-c919x"
+          ],
+          "rootFolderName": "fycyc-aircraft-c919x",
+          "workFolderInstallPaths": [
+            "NavigationData"
+          ]
+        },
+        "simulators": [
+          "msfs2020",
+          "msfs2024"
+        ]
+      }
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "8fd9fb9a-4daf-4d42-a3e1-38beebf66501"
+      }
+    ],
+    "cycle": "2608",
+    "description": "TFDi MD11 (2024+2020)",
+    "files": [
+      {
+        "hash": "a3301b57a16d0c22dfa0e6711e946b0d8d087d9823b22da5f5b63aa1ff9a5b4b",
+        "key": "tfdi_md11_2608.7z",
+        "signed_url": "https://www.dropbox.com/scl/fi/d4ctma4sgbqxyitxy2snu/tfdi_md11_2608.7z?rlkey=w68jzhdfo67ecb17gs8x5iypy&st=8ihlv71q&dl=1"
+      }
+    ],
+    "format": "tfdi_design_md11_workfolder_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "870e7fdc-9306-4be5-8a60-ed2c120c9f47",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "installInWorkfolder": true,
+        "manifest": {
+          "creator": "TFDi Design",
+          "manufacturer": "TFDi Design",
+          "title": "TFDi Design MD-11"
+        },
+        "options": {
+          "descriptionCommunity": "TFDi Design MD-11",
+          "descriptionMarketplace": "TFDi Design MD-11",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/tfdi-design-logo.png",
+          "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/tfdi-design-logo.png",
+          "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/tfdi-design-logo.png",
+          "installInWorkfolder": true,
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "installPaths": [
+            "tfdidesign-aircraft-md11"
+          ],
+          "rootFolderName": "tfdidesign-aircraft-md11",
+          "workFolderInstallPaths": [
+            "Nav-Primary"
+          ]
+        },
+        "simulators": [
+          "msfs2024",
+          "msfs2020"
+        ]
+      }
+    },
+    "offline": {
+      "rarSubPath": "TFDI MD-11/tfdi_md11_msfs_2608.zip",
+      "needsWrap": false
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "f58cf88b-4a51-4769-b48e-adf49480f894"
+      }
+    ],
+    "cycle": "2608",
+    "description": "Avionics Plugin Epic 2 v1.1.1",
+    "files": [
+      {
+        "hash": "5651055a1aeacad9add46d56e3feedc6247e51a21ac0bce22bb68eb05e17d26a",
+        "key": "navigraph-avionics-epic2-v1.1.1.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/ku2s80l6436j411toxtez/navigraph-avionics-epic2-v1.1.1.zip?rlkey=quceefscdjy4naa23kdfgw4hv&st=q8z0n2h6&dl=1"
+      }
+    ],
+    "format": "navigraph_epic2_msfs_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "a8ec8a8d-9112-427e-97ee-2f54165a6545",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "manifest": {
+          "creator": "",
+          "manufacturer": "",
+          "title": ""
+        },
+        "options": {
+          "imageUrl": "https://download.navigraph.com/software/hub/images/navigraph-logo.png",
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "Manifest"
+        },
+        "paths": {
+          "installPaths": [
+            "navigraph-avionics-epic2"
+          ],
+          "rootFolderName": "navigraph-avionics-epic2"
+        },
+        "simulators": [
+          "msfs2024"
+        ]
+      }
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "7f6bf642-acf9-411f-91ad-9bbd96fafc74"
+      }
+    ],
+    "cycle": "2608",
+    "description": "Just Flight F70 Professional",
+    "files": [
+      {
+        "hash": "0dcfb9ac3c095a91da0ad398013bce4f3dc29edc2789c8de196dc669da19e62b",
+        "key": "jf-fokker_2608.7z",
+        "signed_url": "https://www.dropbox.com/scl/fi/jwd0dl1kgqxyq5xj2upg8/jf-fokker_2608.7z?rlkey=bg2u2wtelrp7hrqp47rt045pj&st=bj5raon0&dl=1"
+      }
+    ],
+    "format": "justflight_f70_f100_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "0bca9bbb-6eb7-4ab2-a808-0678ba9df97d",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "installInWorkfolder": true,
+        "manifest": {
+          "creator": "JustFlight",
+          "manufacturer": "JustFlight",
+          "title": "Just Flight F70 Professional"
+        },
+        "options": {
+          "descriptionCommunity": "Just Flight F70 Professional",
+          "descriptionMarketplace": "Just Flight F70 Professional",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/justflight-logo.png (https://download.navigraph.com/software/hub/images/jusflight-logo.png)",
+          "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
+          "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
+          "installInWorkfolder": true,
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "installPaths": [
+            "justflight-aircraft-f70"
+          ],
+          "rootFolderName": "justflight-aircraft-f70",
+          "workFolderInstallPaths": [
+            "NavData"
+          ]
+        },
+        "simulators": [
+          "msfs2024",
+          "msfs2020"
+        ]
+      }
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "a84ef60c-fe7b-4db7-9e85-d7bf98c5f251"
+      }
+    ],
+    "cycle": "2608",
+    "description": "Just Flight F100 Professional",
+    "files": [
+      {
+        "hash": "0dcfb9ac3c095a91da0ad398013bce4f3dc29edc2789c8de196dc669da19e62b",
+        "key": "jf-fokker_2608.7z",
+        "signed_url": "https://www.dropbox.com/scl/fi/jwd0dl1kgqxyq5xj2upg8/jf-fokker_2608.7z?rlkey=bg2u2wtelrp7hrqp47rt045pj&st=bj5raon0&dl=1"
+      }
+    ],
+    "format": "justflight_f70_f100_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "d309e9c1-5589-46c3-8837-0ea0c00e3e0e",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "installInWorkfolder": true,
+        "manifest": {
+          "creator": "JustFlight",
+          "manufacturer": "JustFlight",
+          "title": "Just Flight F100 Professional"
+        },
+        "options": {
+          "descriptionCommunity": "Just Flight F100 Professional",
+          "descriptionMarketplace": "Just Flight F100 Professional",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
+          "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
+          "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
+          "installInWorkfolder": true,
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "installPaths": [
+            "justflight-aircraft-f100"
+          ],
+          "rootFolderName": "justflight-aircraft-f100",
+          "workFolderInstallPaths": [
+            "NavData"
+          ]
+        },
+        "simulators": [
+          "msfs2024",
+          "msfs2020"
+        ]
+      }
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "7bf7fd83-bc05-4f7b-9d8a-6f17624495d5"
+      }
+    ],
+    "cycle": "2608",
+    "description": "iniBuilds A340",
+    "files": [
+      {
+        "hash": "",
+        "key": "inibuilds_a350_2608.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/sapxorvrurctdibufsjlc/inibuilds_a350_2608.zip?rlkey=bqw1vi4kwoct5ybax4vl2ma0e&st=qdq835wd&dl=1"
+      }
+    ],
+    "format": "inibuilds_a340_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "a3fcfb08-5552-42ce-9235-2612ca01061a",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "installInWorkfolder":  true,
+        "manifest": {
+          "creator": "iniBuilds",
+          "manufacturer": "Airbus",
+          "title": "iniBuilds A340"
+        },
+        "options": {
+          "descriptionCommunity": "iniBuilds A340",
+          "descriptionMarketplace": "iniBuilds A340",
+          "imageUrl": "https://git.skybound.cx/sap/navigraph-hub/raw/branch/main/inibuilds_logo.png",
+          "imageUrlCommunity": "https://git.skybound.cx/sap/navigraph-hub/raw/branch/main/inibuilds_logo.png",
+          "imageUrlMarketplace": "https://git.skybound.cx/sap/navigraph-hub/raw/branch/main/inibuilds_logo.png",
+          "installInWorkfolder":  true,
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "installPaths": [
+            "inibuilds-aircraft-a340"
+          ],
+          "rootFolderName": "inibuilds-aircraft-a340",
+          "workFolderInstallPaths": [
+            "NavigationData"
+          ]
+        },
+        "simulators": [
+          "msfs2024"
+        ]
+      }
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "cc75b5c1-cf15-44df-9738-f44a46e6f020"
+      }
+    ],
+    "cycle": "2608",
+    "description": "iniBuilds A350 Airliner",
+    "files": [
+      {
+        "hash": "",
+        "key": "inibuilds_a350_2608.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/sapxorvrurctdibufsjlc/inibuilds_a350_2608.zip?rlkey=bqw1vi4kwoct5ybax4vl2ma0e&st=qdq835wd&dl=1"
+      }
+    ],
+    "format": "inibuilds_a350_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "e90b9ade-cba7-4082-a630-84f76a5856a5",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "installInWorkfolder": true,
+        "manifest": {
+          "creator": "iniBuilds",
+          "manufacturer": "Airbus",
+          "title": "A350 Airliner"
+        },
+        "options": {
+          "descriptionCommunity": "iniBuilds A350 Airliner",
+          "descriptionMarketplace": "iniBuilds A350 Airliner",
+          "imageUrl": "https://git.skybound.cx/sap/navigraph-hub/raw/branch/main/inibuilds_logo.png",
+          "imageUrlCommunity": "https://git.skybound.cx/sap/navigraph-hub/raw/branch/main/inibuilds_logo.png",
+          "imageUrlMarketplace": "https://git.skybound.cx/sap/navigraph-hub/raw/branch/main/inibuilds_logo.png",
+          "installInWorkfolder": true,
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "installPaths": [
+            "inibuilds-aircraft-a350"
+          ],
+          "rootFolderName": "inibuilds-aircraft-a350",
+          "workFolderInstallPaths": [
+            "NavigationData"
+          ]
+        },
+        "simulators": [
+          "msfs2020",
+          "msfs2024"
+        ]
+      }
+    },
+    "offline": {
+      "rarSubPath": "iniBuilds A350/inibuilds_a350_2608.zip",
+      "needsWrap": false
+    }
+  },
+  {
+    "addons": [
+      {
+        "addon_id": "cc75b5c1-cf15-44df-9738-f44a46e6f020"
+      }
+    ],
+    "cycle": "2608",
+    "description": "Aerosoft Aircraft A340-600 Pro",
+    "files": [
+      {
+        "hash": "",
+        "key": "aerosoft_a340_msfs_2608.zip",
+        "signed_url": "https://www.dropbox.com/scl/fi/qhqypp0c7dkmbkof0v2tl/aerosoft_a340_msfs_2608.zip?rlkey=5tr1leesilohzdnz8c40um32k&st=sgx0qrwz&dl=1"
+      }
+    ],
+    "format": "aerosoft_a346_v1",
+    "format_type": "fmsdata_api_package",
+    "package_id": "e90b9ade-cba7-4082-a630-84f76a5856a5",
+    "package_status": "current",
+    "revision": "1",
+    "search_strategies": {
+      "microsoft": {
+        "installInWorkfolder": true,
+        "manifest": {
+          "creator": "Aerosoft",
+          "manufacturer": "Aerosoft GMbH",
+          "title": "Aerosoft A346 Pro"
+        },
+        "options": {
+          "onlineWorkFolderSubPath": "FMSData",
+          "descriptionCommunity": "Aerosoft A340-600 Pro",
+          "descriptionMarketplace": "Aerosoft A340-600 Pro",
+          "imageUrl": "https://git.skybound.cx/sap/navigraph-hub/raw/branch/main/aerosoft-a346.png",
+          "imageUrlCommunity": "https://git.skybound.cx/sap/navigraph-hub/raw/branch/main/aerosoft-a346.png",
+          "imageUrlMarketplace": "https://git.skybound.cx/sap/navigraph-hub/raw/branch/main/aerosoft-a346.png",
+          "installInWorkfolder": true,
+          "toggleDefaultNavdata": false,
+          "updateStrategy": "JSON"
+        },
+        "paths": {
+          "installPaths": [
+            "aerosoft-aircraft-a346-pro"
+          ],
+          "rootFolderName": "aerosoft-aircraft-a346-pro",
+          "workFolderInstallPaths": [ "FMSData" ],
+          "cyclePathGlob": "FMSData/cycle_*/cycle.json"
+        },
+        "simulators": [
+          "msfs2020",
+          "msfs2024"
+        ]
+      }
+    },
+    "offline": {
+      "rarSubPath": "Aerosoft A340/aerosoft_a340_msfs_2608.zip",
+      "needsWrap": true,
+      "wrapPrefix": "FMSData"
+    }
+  }
+]
