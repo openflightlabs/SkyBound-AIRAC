@@ -5,7 +5,7 @@
         "addon_id": "9d3dc6a4-81e3-4fdc-8004-028bbfee3a0c"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "Navigraph Charts In-Game Panel v8.13",
     "files": [
       {
@@ -29,6 +29,10 @@
         },
         "options": {
           "imageUrl": "https://download.devigraph.com/images/navigraph-logo.png",
+          "icon_themes": {
+            "default": "https://download.devigraph.com/images/navigraph-logo.png",
+            "SkyBound_dark": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/dark-mode-icons/navigraph-logo-dark.png"
+          },
           "toggleDefaultNavdata": false,
           "updateStrategy": "Manifest"
         },
@@ -51,7 +55,7 @@
         "addon_id": "aca7194d-b655-41af-a79f-775450b9f7ef"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "Avionics Plugin G3000/G5000 v2.4.1",
     "files": [
       {
@@ -75,6 +79,10 @@
         },
         "options": {
           "imageUrl": "https://download.devigraph.com/images/navigraph-logo.png",
+          "icon_themes": {
+            "default": "https://download.devigraph.com/images/navigraph-logo.png",
+            "SkyBound_dark": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/dark-mode-icons/navigraph-logo-dark.png"
+          },
           "toggleDefaultNavdata": false,
           "updateStrategy": "Manifest"
         },
@@ -97,7 +105,7 @@
         "addon_id": "1a501094-fe35-4d80-9bfa-2d72b6ddd0f9"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "Avionics Plugin G1000 v2.1.3",
     "files": [
       {
@@ -121,6 +129,10 @@
         },
         "options": {
           "imageUrl": "https://download.devigraph.com/images/navigraph-logo.png",
+          "icon_themes": {
+            "default": "https://download.devigraph.com/images/navigraph-logo.png",
+            "SkyBound_dark": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/dark-mode-icons/navigraph-logo-dark.png"
+          },
           "toggleDefaultNavdata": false,
           "updateStrategy": "Manifest"
         },
@@ -143,7 +155,7 @@
         "addon_id": "74aaadcc-0d3c-4970-9267-fdd621803ff9"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "Avionics Plugin G3X v2.3.1",
     "files": [
       {
@@ -167,6 +179,10 @@
         },
         "options": {
           "imageUrl": "https://download.devigraph.com/images/navigraph-logo.png",
+          "icon_themes": {
+            "default": "https://download.devigraph.com/images/navigraph-logo.png",
+            "SkyBound_dark": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/dark-mode-icons/navigraph-logo-dark.png"
+          },
           "toggleDefaultNavdata": false,
           "updateStrategy": "Manifest"
         },
@@ -189,7 +205,7 @@
         "addon_id": "94e6a8dd-e35e-418b-a934-49cfdf082655"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "SimBrief Dispatch for MSFS v1.3.2",
     "files": [
       {
@@ -213,6 +229,10 @@
         },
         "options": {
           "imageUrl": "https://download.devigraph.com/images/navigraph-logo.png",
+          "icon_themes": {
+            "default": "https://download.devigraph.com/images/navigraph-logo.png",
+            "SkyBound_dark": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/dark-mode-icons/navigraph-logo-dark.png"
+          },
           "toggleDefaultNavdata": false,
           "updateStrategy": "Manifest"
         },
@@ -234,7 +254,7 @@
         "addon_id": "cbe630c6-7b24-4417-a9fc-83316c8f3b96"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "Navigraph EFB Charts App v1.0.9",
     "files": [
       {
@@ -258,6 +278,10 @@
         },
         "options": {
           "imageUrl": "https://download.devigraph.com/images/navigraph-logo.png",
+          "icon_themes": {
+            "default": "https://download.devigraph.com/images/navigraph-logo.png",
+            "SkyBound_dark": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/dark-mode-icons/navigraph-logo-dark.png"
+          },
           "toggleDefaultNavdata": false,
           "updateStrategy": "Manifest"
         },
@@ -279,7 +303,7 @@
         "addon_id": "d34c4cdc-8fb9-4e03-8792-5e4e95ee3b26"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "SimBrief EFB App v1.3.2",
     "files": [
       {
@@ -303,6 +327,10 @@
         },
         "options": {
           "imageUrl": "https://download.devigraph.com/images/navigraph-logo.png",
+          "icon_themes": {
+            "default": "https://download.devigraph.com/images/navigraph-logo.png",
+            "SkyBound_dark": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/dark-mode-icons/navigraph-logo-dark.png"
+          },
           "toggleDefaultNavdata": false,
           "updateStrategy": "Manifest"
         },
@@ -324,7 +352,7 @@
         "addon_id": "d0b9d135-e775-4619-8585-e21e276ea1b4"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "Navigraph Academy Lessons v2.0.0",
     "files": [
       {
@@ -348,6 +376,10 @@
         },
         "options": {
           "imageUrl": "https://download.navigraph.com/software/hub/images/navigraph-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/navigraph-logo.png",
+            "SkyBound_dark": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/dark-mode-icons/navigraph-logo-dark.png"
+          },
           "toggleDefaultNavdata": false,
           "updateStrategy": "Manifest",
           "watchContentXml": false
@@ -370,7 +402,7 @@
         "addon_id": "141d8a67-7971-4666-8e3c-e5a71359ef8e"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "Navigraph Academy Lessons v2.0.0",
     "files": [
       {
@@ -394,6 +426,10 @@
         },
         "options": {
           "imageUrl": "https://download.navigraph.com/software/hub/images/navigraph-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/navigraph-logo.png",
+            "SkyBound_dark": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/dark-mode-icons/navigraph-logo-dark.png"
+          },
           "toggleDefaultNavdata": false,
           "updateStrategy": "Manifest",
           "watchContentXml": false
@@ -416,13 +452,13 @@
         "addon_id": "82d89684-0fd1-4024-b9d1-e456ddc578f7"
       }
     ],
-    "cycle": "2608",
-    "description": "AIRAC Cycle 2608 rev.1",
+    "cycle": "2609",
+    "description": "AIRAC Cycle 2609 rev.1",
     "files": [
       {
         "hash": "edd686c8f042131ae2f5455bb45ffa7a2547fcb073f6cc46d236f053420341bb",
-        "key": "msfs_2608.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/msfs_2608.7z"
+        "key": "msfs_2609.7z",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/msfs_2609.7z"
       }
     ],
     "format": "msfs_v2",
@@ -441,6 +477,10 @@
           "allowRemoval": true,
           "allowRemovalForNonSubscribers": true,
           "imageUrl": "https://download.devigraph.com/images/navigraph-logo.png",
+          "icon_themes": {
+            "default": "https://download.devigraph.com/images/navigraph-logo.png",
+            "SkyBound_dark": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/dark-mode-icons/navigraph-logo-dark.png"
+          },
           "insertAfterPackageEntry": "fs-base-nav",
           "packageEntries": [
             {
@@ -480,13 +520,13 @@
         "addon_id": "5b54f6d6-a02c-404b-bff2-d45a4fdad931"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "CRJ 900/1000",
     "files": [
       {
         "hash": "87383ecca507b915d8a40194c24fb515cc23f89676d1c4a8942f977d33f0fdbc",
-        "key": "Aerosoft-CRJ-900-1000_2608.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/Aerosoft-CRJ-900-1000_2608.7z"
+        "key": "Aerosoft-CRJ-900-1000_2609.7z",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/Aerosoft-CRJ-900-1000_2609.7z"
       }
     ],
     "format": "aerosoft_navdatacenter",
@@ -504,6 +544,9 @@
         "options": {
           "descriptionMarketplace": "Aerosoft CRJ 900/1000",
           "imageUrl": "https://download.devigraph.com/images/crj-logo-900-1000.png",
+          "icon_themes": {
+            "default": "https://download.devigraph.com/images/crj-logo-900-1000.png"
+          },
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
         },
@@ -516,9 +559,11 @@
       }
     },
     "offline": {
-      "rarSubPath": "Aerosoft CRJ/aerosoft_crj_2608.zip",
+      "rarSubPath": "Aerosoft CRJ/aerosoft_crj_2609.zip",
       "needsWrap": true,
-      "wrapPrefix": "aerosoft-crj-900-1000/Data"
+      "wrapPrefix": "aerosoft-crj-900-1000/Data",
+      "dbScheme": "B",
+      "multiFile": true
     }
   },
   {
@@ -527,13 +572,13 @@
         "addon_id": "896e5e6d-4ce3-4b6e-8012-97f4ba2c0758"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "Aerosoft CRJ Professional",
     "files": [
       {
         "hash": "6068508e7be1c04cf16d4fd18fc81bb2514462fbd3481c36362770659e382f6b",
-        "key": "aerosoft-crj-workfolder-2608.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/aerosoft-crj-workfolder-2608.zip"
+        "key": "aerosoft-crj-workfolder-2609.zip",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/aerosoft-crj-workfolder-2609.zip"
       }
     ],
     "format": "aerosoft_crj_workfolder_v1",
@@ -555,6 +600,9 @@
           "imageUrl": "https://download.navigraph.com/software/hub/images/crj-logo-bundle.png",
           "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/crj-logo-bundle.png",
           "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/crj-logo-bundle.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/crj-logo-bundle.png"
+          },
           "installInWorkfolder": true,
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
@@ -575,9 +623,11 @@
       }
     },
     "offline": {
-      "rarSubPath": "Aerosoft CRJ/aerosoft_crj_2608.zip",
+      "rarSubPath": "Aerosoft CRJ/aerosoft_crj_2609.zip",
       "needsWrap": true,
-      "wrapPrefix": "Data"
+      "wrapPrefix": "Data",
+      "dbScheme": "B",
+      "multiFile": true
     }
   },
   {
@@ -586,13 +636,13 @@
         "addon_id": "72863077-52ea-4dff-a98a-475b35654e24"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "Fly The Maddog",
     "files": [
       {
         "hash": "bae3331eae314dbb2f9f4b8f3c9d45030f14876a25c808da09aca489bb395b00",
-        "key": "flythemaddog-2608.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/flythemaddog-2608.7z"
+        "key": "flythemaddog-2609.7z",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/flythemaddog-2609.7z"
       }
     ],
     "format": "flythemaddogx_navdatacenter",
@@ -614,6 +664,9 @@
           "imageUrl": "https://download.navigraph.com/software/hub/images/maddog-logo.png",
           "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/maddog-logo.png",
           "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/maddog-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/maddog-logo.png"
+          },
           "installInWorkfolder": true,
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
@@ -630,7 +683,7 @@
       }
     },
     "offline": {
-      "rarSubPath": "Fly the Maddog X/maddogx-airac-2608.zip",
+      "rarSubPath": "Fly the Maddog X/maddogx-airac-2609.zip",
       "needsWrap": true,
       "wrapPrefix": "Navigraph"
     }
@@ -641,13 +694,13 @@
         "addon_id": "a3f33beb-6356-4ac0-97b5-96f91ab33570"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "Fenix Simulations A320",
     "files": [
       {
         "hash": "8691245089e97d50e22598698d8cf1a09a38d75c0223415789c39f23a226e645",
-        "key": "fenix_2608.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/fenix_2608.7z"
+        "key": "fenix_2609.7z",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/fenix_2609.7z"
       }
     ],
     "format": "fenix_nnc_v1",
@@ -668,6 +721,9 @@
           "imageUrl": "https://download.navigraph.com/software/hub/images/fenix-logo.png",
           "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/fenix-logo.png",
           "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/fenix-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/fenix-logo.png"
+          },
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
         },
@@ -681,7 +737,7 @@
       }
     },
     "offline": {
-      "rarSubPath": "FENIX A320/fenix_a320_2608.zip",
+      "rarSubPath": "FENIX A320/fenix_a320_2609.zip",
       "needsWrap": false
     }
   },
@@ -691,13 +747,13 @@
         "addon_id": "96080175-b5df-4908-91c3-8af54d36393e"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "Milviz T6A",
     "files": [
       {
         "hash": "876f158a9b9ef854cd79dd944b2e79a030a27fbe9d25eca33c3a3e9276d47b17",
-        "key": "milviz_t6a_2608.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/milviz_t6a_2608.7z"
+        "key": "milviz_t6a_2609.7z",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/milviz_t6a_2609.7z"
       }
     ],
     "format": "milviz_t6a_v1",
@@ -718,6 +774,10 @@
           "imageUrl": "https://download.devigraph.com/images/blackbird-logo.png",
           "imageUrlCommunity": "https://download.devigraph.com/images/blackbird-logo.png",
           "imageUrlMarketplace": "https://download.devigraph.com/images/blackbird-logo.png",
+          "icon_themes": {
+            "default": "https://download.devigraph.com/images/blackbird-logo.png",
+            "SkyBound_dark": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/dark-mode-icons/blackbird-logo-dark.png"
+          },
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
         },
@@ -728,6 +788,12 @@
           "rootFolderName": "milviz-t6a"
         }
       }
+    },
+    "offline": {
+      "dbScheme": "C",
+      "schemeDbFile": "milvizgeneric.s3db",
+      "multiFile": false,
+      "writeCycleInfoTxt": true
     }
   },
   {
@@ -736,13 +802,13 @@
         "addon_id": "17666aa4-dc75-4314-8545-5eb567bb616f"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "Talking Flight Monitor",
     "files": [
       {
         "hash": "729c834026f3cf6aadb1c6c9a09a536c2767eaf955e392faa8deff004053b40f",
-        "key": "tfm_2608.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/tfm_2608.7z"
+        "key": "tfm_2609.7z",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/tfm_2609.7z"
       }
     ],
     "format": "tfm_v1",
@@ -763,6 +829,9 @@
           "imageUrl": "",
           "imageUrlCommunity": "https://download.devigraph.com/images/fenix-logo.png",
           "imageUrlMarketplace": "https://download.devigraph.com/images/tfm.png",
+          "icon_themes": {
+            "default": ""
+          },
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
         },
@@ -774,6 +843,12 @@
           "rootFolderName": "Navdata"
         }
       }
+    },
+    "offline": {
+      "dbScheme": "E",
+      "schemeDbFile": "e_dfd.s3db",
+      "multiFile": false,
+      "writeCycleInfoTxt": true
     }
   },
   {
@@ -783,7 +858,7 @@
       }
     ],
     "cycle": "2608",
-    "description": "FSiPanel",
+    "description": "FSiPanel (2608)",
     "files": [
       {
         "hash": "8ad042edea232a0cab374e3fb1d948eacfa12ad9f83ab98991100b016de9e2bb",
@@ -809,6 +884,9 @@
           "imageUrl": "https://download.navigraph.com/software/hub/images/fsipanel-logo.png",
           "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/fsipanel-logo.png",
           "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/fsipanel-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/fsipanel-logo.png"
+          },
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
         },
@@ -828,13 +906,13 @@
         "addon_id": "cd1f728d-428d-4322-bf6d-d0c6174c8ebe"
       }
     ],
-    "cycle": "2608",
-    "description": "2608r1",
+    "cycle": "2609",
+    "description": "2609r1",
     "files": [
       {
         "hash": "7ec04a27214135da8dac7a7c6e9d8b52b03e7d4028486e02d6fe07ba5ceb9af5",
-        "key": "tds_gtnxi_2608.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/tds_gtnxi_2608.7z"
+        "key": "tds_gtnxi_2609.7z",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/tds_gtnxi_2609.7z"
       }
     ],
     "format": "tds_gtnxi_v1",
@@ -855,6 +933,9 @@
           "imageUrl": "https://download.navigraph.com/software/hub/images/tds-logo.png",
           "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/tds-logo.png",
           "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/tds-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/tds-logo.png"
+          },
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
         },
@@ -874,13 +955,13 @@
         "addon_id": "1280d132-db32-4d3d-9a0d-3ad5da574815"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "HiFi Active Sky FS",
     "files": [
       {
         "hash": "38a04a70b2d67f5ff22892f7cd595e81bac81ff4d7a96778141be713a7222ef6",
-        "key": "hifi_asfs_2608.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/hifi_asfs_2608.7z"
+        "key": "hifi_asfs_2609.7z",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/hifi_asfs_2609.7z"
       }
     ],
     "format": "hifi_v2",
@@ -901,6 +982,9 @@
           "imageUrl": "https://download.navigraph.com/software/hub/images/activesky-logo.png",
           "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/activesky-logo.png",
           "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/activesky-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/activesky-logo.png"
+          },
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
         },
@@ -920,13 +1004,13 @@
         "addon_id": "bb560102-5877-4382-8897-255914e1ad66"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "iFly 737 Max8 MSFS2020",
     "files": [
       {
         "hash": "0bab1e4a07cd485c85900736718ee06622cb8e0c4c146dd8a36f005bd4a5b498",
-        "key": "ifly-aircraft-737max8_2020_2608.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/ifly-aircraft-737max8_2020_2608.7z"
+        "key": "ifly-aircraft-737max8_2020_2609.7z",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/ifly-aircraft-737max8_2020_2609.7z"
       }
     ],
     "format": "ifly_737max8_v1",
@@ -947,6 +1031,9 @@
           "imageUrl": "https://download.navigraph.com/software/hub/images/ifly-logo.png",
           "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/ifly-logo.png",
           "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/ifly-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/ifly-logo.png"
+          },
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
         },
@@ -962,9 +1049,11 @@
       }
     },
     "offline": {
-      "rarSubPath": "iFly 737 MAX 8/ifly_b737max8_2608.zip",
+      "rarSubPath": "iFly 737 MAX 8/ifly_b737max8_2609.zip",
       "needsWrap": true,
-      "wrapPrefix": "ifly-aircraft-737max8/Data/navdata"
+      "wrapPrefix": "ifly-aircraft-737max8/Data/navdata",
+      "dbScheme": "D",
+      "multiFile": true
     }
   },
   {
@@ -973,16 +1062,16 @@
         "addon_id": "e95a3b4a-f277-49e0-b044-d1d88e18cc4f"
       }
     ],
-    "cycle": "2608",
-    "description": "Aerosoft A300-PW",
+    "cycle": "2609",
+    "description": "Aerosoft A330-PW",
     "files": [
       {
         "hash": "4475e3c0219757d194b6d9ac2c9370b1558f47715e336e255690392a769d8031",
-        "key": "aerosoft-aircraft-a333-pw_2608.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/aerosoft-aircraft-a333-pw_2608.7z"
+        "key": "aerosoft-aircraft-a333-pw_2609.7z",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/aerosoft-aircraft-a333-pw_2609.7z"
       }
     ],
-    "format": "aerosoft_a300_v1",
+    "format": "aerosoft_a330_v1",
     "format_type": "fmsdata_api_package",
     "package_id": "1586a73a-1fa9-4292-bf49-be12662cc662",
     "package_status": "current",
@@ -1000,6 +1089,9 @@
           "imageUrl": "https://download.navigraph.com/software/hub/images/aerosoft-a330.jpg",
           "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/aerosoft-a330.jpg",
           "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/aerosoft-a330.jpg",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/aerosoft-a330.jpg"
+          },
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
         },
@@ -1010,6 +1102,11 @@
           "rootFolderName": "aerosoft-aircraft-a333-pw"
         }
       }
+    },
+    "offline": {
+      "dbScheme": "B",
+      "multiFile": true,
+      "schemeCycleJsonName": "Aerosoft A330-PW"
     }
   },
   {
@@ -1018,13 +1115,13 @@
         "addon_id": "44c2bba4-4383-41ad-8da0-391547d27a57"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "FlightSimLabs A321",
     "files": [
       {
         "hash": "d84ea5534df38beeb80acc7f8b68218edee1feb709f4498e6cf1987c85f85aa2",
-        "key": "fslabs-a321-2608.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/fslabs-a321-2608.7z"
+        "key": "fslabs-a321-2609.7z",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/fslabs-a321-2609.7z"
       }
     ],
     "format": "flightsimlabs_a321_v1",
@@ -1045,6 +1142,10 @@
           "imageUrl": "https://download.navigraph.com/software/hub/images/flightsimlabs-logo.png",
           "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/flightsimlabs-logo.png",
           "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/flightsimlabs-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/flightsimlabs-logo.png",
+            "SkyBound_dark": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/dark-mode-icons/fslabs-logo-dark.png"
+          },
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
         },
@@ -1064,13 +1165,13 @@
         "addon_id": "f69e1d43-885d-46aa-bd5f-99a378d09121"
       }
     ],
-    "cycle": "2608",
-    "description": "AIRAC Cycle 2608 rev.1",
+    "cycle": "2609",
+    "description": "AIRAC Cycle 2609 rev.1",
     "files": [
       {
         "hash": "0bd53fd4348dbc0c1c7c4e5b9bd55ac5789fa435a3680e55a66256ae8712cbe3",
-        "key": "msfs2024_2608.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/msfs2024_2608.7z"
+        "key": "msfs2024_2609.7z",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/msfs2024_2609.7z"
       }
     ],
     "format": "msfs_v3",
@@ -1088,6 +1189,10 @@
         "options": {
           "allowRemovalForNonSubscribers": true,
           "imageUrl": "https://download.navigraph.com/software/hub/images/navigraph-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/navigraph-logo.png",
+            "SkyBound_dark": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/dark-mode-icons/navigraph-logo-dark.png"
+          },
           "insertAfterPackageEntry": "fs-base-nav",
           "toggleDefaultNavdata": true,
           "updateStrategy": "Manifest",
@@ -1110,7 +1215,7 @@
       }
     },
     "offline": {
-      "rarSubPath": "MSFS 2024/msfs2024_2608_rev1.beta.zip",
+      "rarSubPath": "MSFS 2024/msfs2024_2609_rev1.beta.zip",
       "needsWrap": false
     }
   },
@@ -1120,13 +1225,13 @@
         "addon_id": "7ab0d308-a6a4-472a-afc6-145346b7ea79"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "Just Flight F28 Professional",
     "files": [
       {
         "hash": "58b2e8cd4636c673eab9c9975a2e1e72effb5676e8197c6271982d0403f49e7f",
-        "key": "justflight-aircraft-workfolder-2608.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/justflight-aircraft-workfolder-2608.zip"
+        "key": "justflight-aircraft-workfolder-2609.zip",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/justflight-aircraft-workfolder-2609.zip"
       }
     ],
     "format": "justflight_f28_v1",
@@ -1145,9 +1250,13 @@
         "options": {
           "descriptionCommunity": "Just Flight F28 Professional v2.2+",
           "descriptionMarketplace": "Just Flight F28 Professional v2.2+",
-          "imageUrl": "https://download.navigraph.com/software/hub/images/jusflight-logo.png",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
           "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
           "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
+            "SkyBound_dark": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/dark-mode-icons/justflight-logo-dark.png"
+          },
           "installInWorkfolder": true,
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
@@ -1168,7 +1277,7 @@
       }
     },
     "offline": {
-      "rarSubPath": "Just Flight - BAe 146/jf_146_prof_msfs_2608.zip",
+      "rarSubPath": "Just Flight - BAe 146/jf_146_prof_msfs_2609.zip",
       "needsWrap": true,
       "wrapPrefix": "JustFlight"
     }
@@ -1179,13 +1288,13 @@
         "addon_id": "64a50b91-e59e-48c4-8af2-154b79269930"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "CSS 737-500",
     "files": [
       {
         "hash": "73f7a60e55668f1e87adf0c7966303e21198503a3a1ff9639e73ea988b5a1b5a",
-        "key": "css-737-2608.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/css-737-2608.zip"
+        "key": "css-737-2609.zip",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/css-737-2609.zip"
       }
     ],
     "format": "css_v1",
@@ -1206,6 +1315,9 @@
           "imageUrl": "https://download.navigraph.com/software/hub/images/css-logo.png",
           "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/css-logo.png",
           "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/css-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/css-logo.png"
+          },
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
         },
@@ -1218,9 +1330,13 @@
       }
     },
     "offline": {
-      "rarSubPath": "CSS 737/css_737_msfs_2608.zip",
+      "rarSubPath": "CSS 737/css_737_msfs_2609.zip",
       "needsWrap": true,
-      "wrapPrefix": "css-core/data"
+      "wrapPrefix": "css-core/data",
+      "dbScheme": "A",
+      "schemeDbFile": "ng_jeppensen_fwdfd_CYCLE.s3db",
+      "schemeCycleJsonName": "ToLiss",
+      "multiFile": false
     }
   },
   {
@@ -1229,13 +1345,13 @@
         "addon_id": "a9df7e3c-7589-4b75-86ff-4b41e9c802b3"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "iFly 737 Max8 MSFS2024",
     "files": [
       {
         "hash": "277ad139fb2ae0733a1db4aceb303507dae2f16234a3b058abba9bd08679db83",
-        "key": "ifly-aircraft-737max8_2024_2608.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/ifly-aircraft-737max8_2024_2608.7z"
+        "key": "ifly-aircraft-737max8_2024_2609.7z",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/ifly-aircraft-737max8_2024_2609.7z"
       }
     ],
     "format": "ifly_737max8_workfolder_v1",
@@ -1257,6 +1373,9 @@
           "imageUrl": "https://download.navigraph.com/software/hub/images/ifly-logo.png",
           "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/ifly-logo.png",
           "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/ifly-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/ifly-logo.png"
+          },
           "installInWorkfolder": true,
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
@@ -1276,9 +1395,11 @@
       }
     },
     "offline": {
-      "rarSubPath": "iFly 737 MAX 8/ifly_b737max8_2608.zip",
+      "rarSubPath": "iFly 737 MAX 8/ifly_b737max8_2609.zip",
       "needsWrap": true,
-      "wrapPrefix": "navdata"
+      "wrapPrefix": "navdata",
+      "dbScheme": "D",
+      "multiFile": true
     }
   },
   {
@@ -1287,13 +1408,13 @@
         "addon_id": "9ac45720-0838-417a-88db-7637cb788ce3"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "PMDG 737-800",
     "files": [
       {
         "hash": "822bb0310d4e4aa3d5f4bb95ad6b96f865f6c10b78156f790e60e9f2f37227e6",
-        "key": "pmdg-aircraft-workfolder-2608.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/pmdg-aircraft-workfolder-2608.zip"
+        "key": "pmdg-aircraft-workfolder-2609.zip",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/pmdg-aircraft-workfolder-2609.zip"
       }
     ],
     "format": "pmdg_workfolder_v1",
@@ -1315,6 +1436,10 @@
           "imageUrl": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
           "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
           "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+            "SkyBound_dark": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/dark-mode-icons/pmdg-logo-dark.png"
+          },
           "installInWorkfolder": true,
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
@@ -1335,8 +1460,12 @@
       }
     },
     "offline": {
-      "rarSubPath": "PMDG MSFS/pmdg_2608.zip",
-      "needsWrap": false
+      "rarSubPath": "PMDG MSFS/pmdg_2609.zip",
+      "needsWrap": false,
+      "dbScheme": "E",
+      "schemeDbFile": "e_dfd_PMDG.s3db",
+      "multiFile": false,
+      "writeCycleInfoTxt": true
     }
   },
   {
@@ -1345,13 +1474,13 @@
         "addon_id": "8c0f22c1-7283-4df3-9311-a894a9420838"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "PMDG 777W (2020+2024)",
     "files": [
       {
         "hash": "822bb0310d4e4aa3d5f4bb95ad6b96f865f6c10b78156f790e60e9f2f37227e6",
-        "key": "pmdg-aircraft-workfolder-2608.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/pmdg-aircraft-workfolder-2608.zip"
+        "key": "pmdg-aircraft-workfolder-2609.zip",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/pmdg-aircraft-workfolder-2609.zip"
       }
     ],
     "format": "pmdg_workfolder_v1",
@@ -1373,6 +1502,10 @@
           "imageUrl": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
           "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
           "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+            "SkyBound_dark": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/dark-mode-icons/pmdg-logo-dark.png"
+          },
           "installInWorkfolder": true,
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
@@ -1393,8 +1526,12 @@
       }
     },
     "offline": {
-      "rarSubPath": "PMDG MSFS/pmdg_2608.zip",
-      "needsWrap": false
+      "rarSubPath": "PMDG MSFS/pmdg_2609.zip",
+      "needsWrap": false,
+      "dbScheme": "E",
+      "schemeDbFile": "e_dfd_PMDG.s3db",
+      "multiFile": false,
+      "writeCycleInfoTxt": true
     }
   },
   {
@@ -1403,13 +1540,13 @@
         "addon_id": "c3c13956-73b9-422c-82fd-3e59c061ad6b"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "PMDG 737-700",
     "files": [
       {
         "hash": "822bb0310d4e4aa3d5f4bb95ad6b96f865f6c10b78156f790e60e9f2f37227e6",
-        "key": "pmdg-aircraft-workfolder-2608.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/pmdg-aircraft-workfolder-2608.zip"
+        "key": "pmdg-aircraft-workfolder-2609.zip",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/pmdg-aircraft-workfolder-2609.zip"
       }
     ],
     "format": "pmdg_workfolder_v1",
@@ -1431,6 +1568,10 @@
           "imageUrl": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
           "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
           "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+            "SkyBound_dark": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/dark-mode-icons/pmdg-logo-dark.png"
+          },
           "installInWorkfolder": true,
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
@@ -1451,8 +1592,12 @@
       }
     },
     "offline": {
-      "rarSubPath": "PMDG MSFS/pmdg_2608.zip",
-      "needsWrap": false
+      "rarSubPath": "PMDG MSFS/pmdg_2609.zip",
+      "needsWrap": false,
+      "dbScheme": "E",
+      "schemeDbFile": "e_dfd_PMDG.s3db",
+      "multiFile": false,
+      "writeCycleInfoTxt": true
     }
   },
   {
@@ -1461,13 +1606,13 @@
         "addon_id": "d54be168-5539-4d2c-99d7-b83a0d91a1b3"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "PMDG 737-600",
     "files": [
       {
         "hash": "822bb0310d4e4aa3d5f4bb95ad6b96f865f6c10b78156f790e60e9f2f37227e6",
-        "key": "pmdg-aircraft-workfolder-2608.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/pmdg-aircraft-workfolder-2608.zip"
+        "key": "pmdg-aircraft-workfolder-2609.zip",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/pmdg-aircraft-workfolder-2609.zip"
       }
     ],
     "format": "pmdg_workfolder_v1",
@@ -1489,6 +1634,10 @@
           "imageUrl": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
           "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
           "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+            "SkyBound_dark": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/dark-mode-icons/pmdg-logo-dark.png"
+          },
           "installInWorkfolder": true,
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
@@ -1509,8 +1658,12 @@
       }
     },
     "offline": {
-      "rarSubPath": "PMDG MSFS/pmdg_2608.zip",
-      "needsWrap": false
+      "rarSubPath": "PMDG MSFS/pmdg_2609.zip",
+      "needsWrap": false,
+      "dbScheme": "E",
+      "schemeDbFile": "e_dfd_PMDG.s3db",
+      "multiFile": false,
+      "writeCycleInfoTxt": true
     }
   },
   {
@@ -1519,13 +1672,13 @@
         "addon_id": "1b793dfb-1684-4b28-a4bb-647694401242"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "PMDG 777F (2020+2024)",
     "files": [
       {
         "hash": "822bb0310d4e4aa3d5f4bb95ad6b96f865f6c10b78156f790e60e9f2f37227e6",
-        "key": "pmdg-aircraft-workfolder-2608.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/pmdg-aircraft-workfolder-2608.zip"
+        "key": "pmdg-aircraft-workfolder-2609.zip",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/pmdg-aircraft-workfolder-2609.zip"
       }
     ],
     "format": "pmdg_workfolder_v1",
@@ -1547,6 +1700,10 @@
           "imageUrl": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
           "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
           "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+            "SkyBound_dark": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/dark-mode-icons/pmdg-logo-dark.png"
+          },
           "installInWorkfolder": true,
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
@@ -1567,8 +1724,12 @@
       }
     },
     "offline": {
-      "rarSubPath": "PMDG MSFS/pmdg_2608.zip",
-      "needsWrap": false
+      "rarSubPath": "PMDG MSFS/pmdg_2609.zip",
+      "needsWrap": false,
+      "dbScheme": "E",
+      "schemeDbFile": "e_dfd_PMDG.s3db",
+      "multiFile": false,
+      "writeCycleInfoTxt": true
     }
   },
   {
@@ -1577,13 +1738,13 @@
         "addon_id": "53772483-b2f8-4f4f-9e20-c8fabac48c41"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "PMDG 777-200ER",
     "files": [
       {
         "hash": "822bb0310d4e4aa3d5f4bb95ad6b96f865f6c10b78156f790e60e9f2f37227e6",
-        "key": "pmdg-aircraft-workfolder-2608.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/pmdg-aircraft-workfolder-2608.zip"
+        "key": "pmdg-aircraft-workfolder-2609.zip",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/pmdg-aircraft-workfolder-2609.zip"
       }
     ],
     "format": "pmdg_workfolder_v1",
@@ -1605,6 +1766,10 @@
           "imageUrl": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
           "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
           "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+            "SkyBound_dark": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/dark-mode-icons/pmdg-logo-dark.png"
+          },
           "installInWorkfolder": true,
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
@@ -1625,8 +1790,12 @@
       }
     },
     "offline": {
-      "rarSubPath": "PMDG MSFS/pmdg_2608.zip",
-      "needsWrap": false
+      "rarSubPath": "PMDG MSFS/pmdg_2609.zip",
+      "needsWrap": false,
+      "dbScheme": "E",
+      "schemeDbFile": "e_dfd_PMDG.s3db",
+      "multiFile": false,
+      "writeCycleInfoTxt": true
     }
   },
   {
@@ -1635,13 +1804,13 @@
         "addon_id": "4d5e29ea-10b0-42c3-a913-bd0ea6cb9f9f"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "PMDG 737-900",
     "files": [
       {
         "hash": "822bb0310d4e4aa3d5f4bb95ad6b96f865f6c10b78156f790e60e9f2f37227e6",
-        "key": "pmdg-aircraft-workfolder-2608.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/pmdg-aircraft-workfolder-2608.zip"
+        "key": "pmdg-aircraft-workfolder-2609.zip",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/pmdg-aircraft-workfolder-2609.zip"
       }
     ],
     "format": "pmdg_workfolder_v1",
@@ -1663,6 +1832,10 @@
           "imageUrl": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
           "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
           "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+            "SkyBound_dark": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/dark-mode-icons/pmdg-logo-dark.png"
+          },
           "installInWorkfolder": true,
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
@@ -1683,8 +1856,12 @@
       }
     },
     "offline": {
-      "rarSubPath": "PMDG MSFS/pmdg_2608.zip",
-      "needsWrap": false
+      "rarSubPath": "PMDG MSFS/pmdg_2609.zip",
+      "needsWrap": false,
+      "dbScheme": "E",
+      "schemeDbFile": "e_dfd_PMDG.s3db",
+      "multiFile": false,
+      "writeCycleInfoTxt": true
     }
   },
   {
@@ -1693,13 +1870,13 @@
         "addon_id": "c3ecd76f-1f2e-4a19-b9ec-1bfb9c5c786d"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "PMDG 777-200LR",
     "files": [
       {
         "hash": "822bb0310d4e4aa3d5f4bb95ad6b96f865f6c10b78156f790e60e9f2f37227e6",
-        "key": "pmdg-aircraft-workfolder-2608.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/pmdg-aircraft-workfolder-2608.zip"
+        "key": "pmdg-aircraft-workfolder-2609.zip",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/pmdg-aircraft-workfolder-2609.zip"
       }
     ],
     "format": "pmdg_workfolder_v1",
@@ -1721,6 +1898,10 @@
           "imageUrl": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
           "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
           "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/pmdg-logo.png",
+            "SkyBound_dark": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/dark-mode-icons/pmdg-logo-dark.png"
+          },
           "installInWorkfolder": true,
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
@@ -1741,8 +1922,12 @@
       }
     },
     "offline": {
-      "rarSubPath": "PMDG MSFS/pmdg_2608.zip",
-      "needsWrap": false
+      "rarSubPath": "PMDG MSFS/pmdg_2609.zip",
+      "needsWrap": false,
+      "dbScheme": "E",
+      "schemeDbFile": "e_dfd_PMDG.s3db",
+      "multiFile": false,
+      "writeCycleInfoTxt": true
     }
   },
   {
@@ -1751,13 +1936,13 @@
         "addon_id": "495e19ac-df2d-46fa-9178-07d2ff3b226e"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "Blackbird D30",
     "files": [
       {
         "hash": "744a154c2edcaba69c6e9b58b992ea8d07a0dacef834f192a0b243080a50d6ae",
-        "key": "blackbird-d30-workfolder-2608.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/blackbird-d30-workfolder-2608.zip"
+        "key": "blackbird-d30-workfolder-2609.zip",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/blackbird-d30-workfolder-2609.zip"
       }
     ],
     "format": "milviz_d30_workfolder_v1",
@@ -1779,6 +1964,10 @@
           "imageUrl": "https://download.navigraph.com/software/hub/images/blackbird-logo.png",
           "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/blackbird-logo.png",
           "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/blackbird-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/blackbird-logo.png",
+            "SkyBound_dark": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/dark-mode-icons/blackbird-logo-dark.png"
+          },
           "installInWorkfolder": true,
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
@@ -1796,6 +1985,12 @@
           "msfs2024"
         ]
       }
+    },
+    "offline": {
+      "dbScheme": "C",
+      "schemeDbFile": "milvizgeneric.s3db",
+      "multiFile": false,
+      "writeCycleInfoTxt": true
     }
   },
   {
@@ -1804,13 +1999,13 @@
         "addon_id": "548140df-6c37-44ad-ab4a-435e609ec266"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "Just Flight Avro Rj Professional",
     "files": [
       {
         "hash": "58b2e8cd4636c673eab9c9975a2e1e72effb5676e8197c6271982d0403f49e7f",
-        "key": "justflight-aircraft-workfolder-2608.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/justflight-aircraft-workfolder-2608.zip"
+        "key": "justflight-aircraft-workfolder-2609.zip",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/justflight-aircraft-workfolder-2609.zip"
       }
     ],
     "format": "justflight_rj_avro_workfolder_v1",
@@ -1829,9 +2024,13 @@
         "options": {
           "descriptionCommunity": "Just Flight RJ Professional 1.4+",
           "descriptionMarketplace": "Just Flight RJ Professional 1.4+",
-          "imageUrl": "https://download.navigraph.com/software/hub/images/jusflight-logo.png",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
           "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
           "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
+            "SkyBound_dark": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/dark-mode-icons/justflight-logo-dark.png"
+          },
           "installInWorkfolder": true,
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
@@ -1852,7 +2051,7 @@
       }
     },
     "offline": {
-      "rarSubPath": "Just Flight - BAe 146/jf_146_prof_msfs_2608.zip",
+      "rarSubPath": "Just Flight - BAe 146/jf_146_prof_msfs_2609.zip",
       "needsWrap": true,
       "wrapPrefix": "JustFlight"
     }
@@ -1863,13 +2062,13 @@
         "addon_id": "dc1d5d15-619b-4789-a7f9-11e609fdaf20"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "Aero Dynamics T-38C",
     "files": [
       {
         "hash": "68ffde671649d84a6f51a788955c1b0d99634f3145ac3ced1b8cffeb67613626",
-        "key": "aerodynamics-t38c-workfolder-2608.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/aerodynamics-t38c-workfolder-2608.zip"
+        "key": "aerodynamics-t38c-workfolder-2609.zip",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/aerodynamics-t38c-workfolder-2609.zip"
       }
     ],
     "format": "aerodynamics_dfdv2_v1",
@@ -1891,6 +2090,9 @@
           "imageUrl": "https://download.navigraph.com/software/hub/images/aerodynamics-logo.png",
           "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/aerodynamics-logo.png",
           "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/aerodynamics-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/aerodynamics-logo.png"
+          },
           "installInWorkfolder": true,
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
@@ -1908,6 +2110,12 @@
           "msfs2024"
         ]
       }
+    },
+    "offline": {
+      "dbScheme": "A",
+      "schemeDbFile": "Nav.s3db",
+      "schemeCycleJsonName": "Aero Dynamics T-38 DFD v2",
+      "multiFile": false
     }
   },
   {
@@ -1916,13 +2124,13 @@
         "addon_id": "151cbd7c-3e94-4a61-b03e-3289cdba3275"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "Just Flight 146",
     "files": [
       {
         "hash": "58b2e8cd4636c673eab9c9975a2e1e72effb5676e8197c6271982d0403f49e7f",
-        "key": "justflight-aircraft-workfolder-2608.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/justflight-aircraft-workfolder-2608.zip"
+        "key": "justflight-aircraft-workfolder-2609.zip",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/justflight-aircraft-workfolder-2609.zip"
       }
     ],
     "format": "justflight_146_workfolder_v1",
@@ -1944,6 +2152,10 @@
           "imageUrl": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
           "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
           "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
+            "SkyBound_dark": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/dark-mode-icons/justflight-logo-dark.png"
+          },
           "installInWorkfolder": true,
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
@@ -1964,7 +2176,7 @@
       }
     },
     "offline": {
-      "rarSubPath": "Just Flight - BAe 146/jf_146_prof_msfs_2608.zip",
+      "rarSubPath": "Just Flight - BAe 146/jf_146_prof_msfs_2609.zip",
       "needsWrap": true,
       "wrapPrefix": "JustFlight"
     }
@@ -1975,13 +2187,13 @@
         "addon_id": "8cecf8f6-a03f-44f3-8251-1465ab02b465"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "FYCYC C919X",
     "files": [
       {
         "hash": "5259d5ceda04efe29dfa891452a30a5ea93f1ce922e3cad7081c8aedf9822978",
-        "key": "fycyc-c919x-2608.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/fycyc-c919x-2608.zip"
+        "key": "fycyc-c919x-2609.zip",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/fycyc-c919x-2609.zip"
       }
     ],
     "format": "fycyc_dfd2_v1",
@@ -2003,6 +2215,9 @@
           "imageUrl": "https://download.navigraph.com/software/hub/images/fycyc-logo.png",
           "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/fycyc-logo.png",
           "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/fycyc-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/fycyc-logo.png"
+          },
           "installInWorkfolder": true,
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
@@ -2021,6 +2236,12 @@
           "msfs2024"
         ]
       }
+    },
+    "offline": {
+      "dbScheme": "A",
+      "schemeDbFile": "db.s3db",
+      "schemeCycleJsonName": "FYCYC C919X",
+      "multiFile": false
     }
   },
   {
@@ -2029,13 +2250,13 @@
         "addon_id": "8fd9fb9a-4daf-4d42-a3e1-38beebf66501"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "TFDi MD11 (2024+2020)",
     "files": [
       {
         "hash": "a3301b57a16d0c22dfa0e6711e946b0d8d087d9823b22da5f5b63aa1ff9a5b4b",
-        "key": "tfdi_md11_2608.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/tfdi_md11_2608.7z"
+        "key": "tfdi_md11_2609.7z",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/tfdi_md11_2609.7z"
       }
     ],
     "format": "tfdi_design_md11_workfolder_v1",
@@ -2057,6 +2278,9 @@
           "imageUrl": "https://download.navigraph.com/software/hub/images/tfdi-design-logo.png",
           "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/tfdi-design-logo.png",
           "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/tfdi-design-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/tfdi-design-logo.png"
+          },
           "installInWorkfolder": true,
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
@@ -2077,7 +2301,7 @@
       }
     },
     "offline": {
-      "rarSubPath": "TFDI MD-11/tfdi_md11_msfs_2608.zip",
+      "rarSubPath": "TFDI MD-11/tfdi_md11_msfs_2609.zip",
       "needsWrap": false
     }
   },
@@ -2087,7 +2311,7 @@
         "addon_id": "f58cf88b-4a51-4769-b48e-adf49480f894"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "Avionics Plugin Epic 2 v1.1.1",
     "files": [
       {
@@ -2110,6 +2334,10 @@
         },
         "options": {
           "imageUrl": "https://download.navigraph.com/software/hub/images/navigraph-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/navigraph-logo.png",
+            "SkyBound_dark": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/dark-mode-icons/navigraph-logo-dark.png"
+          },
           "toggleDefaultNavdata": false,
           "updateStrategy": "Manifest"
         },
@@ -2131,13 +2359,13 @@
         "addon_id": "7f6bf642-acf9-411f-91ad-9bbd96fafc74"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "Just Flight F70 Professional",
     "files": [
       {
         "hash": "0dcfb9ac3c095a91da0ad398013bce4f3dc29edc2789c8de196dc669da19e62b",
-        "key": "jf-fokker_2608.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/jf-fokker_2608.7z"
+        "key": "jf-fokker_2609.7z",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/jf-fokker_2609.7z"
       }
     ],
     "format": "justflight_f70_f100_v1",
@@ -2156,9 +2384,13 @@
         "options": {
           "descriptionCommunity": "Just Flight F70 Professional",
           "descriptionMarketplace": "Just Flight F70 Professional",
-          "imageUrl": "https://download.navigraph.com/software/hub/images/justflight-logo.png (https://download.navigraph.com/software/hub/images/jusflight-logo.png)",
+          "imageUrl": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
           "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
           "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
+            "SkyBound_dark": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/dark-mode-icons/justflight-logo-dark.png"
+          },
           "installInWorkfolder": true,
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
@@ -2185,13 +2417,13 @@
         "addon_id": "a84ef60c-fe7b-4db7-9e85-d7bf98c5f251"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "Just Flight F100 Professional",
     "files": [
       {
         "hash": "0dcfb9ac3c095a91da0ad398013bce4f3dc29edc2789c8de196dc669da19e62b",
-        "key": "jf-fokker_2608.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/jf-fokker_2608.7z"
+        "key": "jf-fokker_2609.7z",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/jf-fokker_2609.7z"
       }
     ],
     "format": "justflight_f70_f100_v1",
@@ -2213,6 +2445,10 @@
           "imageUrl": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
           "imageUrlCommunity": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
           "imageUrlMarketplace": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
+          "icon_themes": {
+            "default": "https://download.navigraph.com/software/hub/images/justflight-logo.png",
+            "SkyBound_dark": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/dark-mode-icons/justflight-logo-dark.png"
+          },
           "installInWorkfolder": true,
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
@@ -2239,13 +2475,13 @@
         "addon_id": "7bf7fd83-bc05-4f7b-9d8a-6f17624495d5"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "iniBuilds A340",
     "files": [
       {
         "hash": "",
-        "key": "inibuilds_a350_2608.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/inibuilds_a350_2608.zip"
+        "key": "inibuilds_a350_2609.zip",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/inibuilds_a350_2609.zip"
       }
     ],
     "format": "inibuilds_a340_v1",
@@ -2255,7 +2491,7 @@
     "revision": "1",
     "search_strategies": {
       "microsoft": {
-        "installInWorkfolder":  true,
+        "installInWorkfolder": true,
         "manifest": {
           "creator": "iniBuilds",
           "manufacturer": "Airbus",
@@ -2267,7 +2503,11 @@
           "imageUrl": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/inibuilds_logo.png",
           "imageUrlCommunity": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/inibuilds_logo.png",
           "imageUrlMarketplace": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/inibuilds_logo.png",
-          "installInWorkfolder":  true,
+          "icon_themes": {
+            "default": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/inibuilds_logo.png",
+            "SkyBound_dark": "https://github.com/openflightlabs/SkyBound-AIRAC/blob/main/dark-mode-icons/inibuilds_logo-dark.png?raw=true"
+          },
+          "installInWorkfolder": true,
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
         },
@@ -2292,13 +2532,13 @@
         "addon_id": "cc75b5c1-cf15-44df-9738-f44a46e6f020"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "iniBuilds A350 Airliner",
     "files": [
       {
         "hash": "",
-        "key": "inibuilds_a350_2608.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/inibuilds_a350_2608.zip"
+        "key": "inibuilds_a350_2609.zip",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/inibuilds_a350_2609.zip"
       }
     ],
     "format": "inibuilds_a350_v1",
@@ -2320,6 +2560,10 @@
           "imageUrl": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/inibuilds_logo.png",
           "imageUrlCommunity": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/inibuilds_logo.png",
           "imageUrlMarketplace": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/inibuilds_logo.png",
+          "icon_themes": {
+            "default": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/inibuilds_logo.png",
+            "SkyBound_dark": "https://github.com/openflightlabs/SkyBound-AIRAC/blob/main/dark-mode-icons/inibuilds_logo-dark.png?raw=true"
+          },
           "installInWorkfolder": true,
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
@@ -2340,8 +2584,12 @@
       }
     },
     "offline": {
-      "rarSubPath": "iniBuilds A350/inibuilds_a350_2608.zip",
-      "needsWrap": false
+      "rarSubPath": "iniBuilds A350/inibuilds_a350_2609.zip",
+      "needsWrap": false,
+      "dbScheme": "A",
+      "schemeDbFile": "db.s3db",
+      "schemeCycleJsonName": "iniBuilds DFD v2",
+      "multiFile": false
     }
   },
   {
@@ -2350,13 +2598,13 @@
         "addon_id": "cc75b5c1-cf15-44df-9738-f44a46e6f020"
       }
     ],
-    "cycle": "2608",
+    "cycle": "2609",
     "description": "Aerosoft Aircraft A340-600 Pro",
     "files": [
       {
         "hash": "",
-        "key": "aerosoft_a340_msfs_2608.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/aerosoft_a340_msfs_2608.zip"
+        "key": "aerosoft_a340_msfs_2609.zip",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/aerosoft_a340_msfs_2609.zip"
       }
     ],
     "format": "aerosoft_a346_v1",
@@ -2379,6 +2627,9 @@
           "imageUrl": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/aerosoft-a346.png",
           "imageUrlCommunity": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/aerosoft-a346.png",
           "imageUrlMarketplace": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/aerosoft-a346.png",
+          "icon_themes": {
+            "default": "https://raw.githubusercontent.com/openflightlabs/SkyBound-AIRAC/refs/heads/main/aerosoft-a346.png"
+          },
           "installInWorkfolder": true,
           "toggleDefaultNavdata": false,
           "updateStrategy": "JSON"
@@ -2388,7 +2639,9 @@
             "aerosoft-aircraft-a346-pro"
           ],
           "rootFolderName": "aerosoft-aircraft-a346-pro",
-          "workFolderInstallPaths": [ "FMSData" ],
+          "workFolderInstallPaths": [
+            "FMSData"
+          ],
           "cyclePathGlob": "FMSData/cycle_*/cycle.json"
         },
         "simulators": [
@@ -2398,9 +2651,13 @@
       }
     },
     "offline": {
-      "rarSubPath": "Aerosoft A340/aerosoft_a340_msfs_2608.zip",
+      "rarSubPath": "Aerosoft A340/aerosoft_a340_msfs_2609.zip",
       "needsWrap": true,
-      "wrapPrefix": "FMSData"
+      "wrapPrefix": "FMSData",
+      "dbScheme": "A",
+      "schemeDbFile": "ng_jeppensen_fwdfd_CYCLE.s3db",
+      "schemeCycleJsonName": "ToLiss",
+      "multiFile": false
     }
   }
 ]
