@@ -872,13 +872,13 @@
         "addon_id": "ebb0fe4c-7787-43b6-bea2-a38be8408e56"
       }
     ],
-    "cycle": "2608",
-    "description": "FSiPanel (2608)",
+    "cycle": "2609",
+    "description": "FSiPanel",
     "files": [
       {
         "hash": "8ad042edea232a0cab374e3fb1d948eacfa12ad9f83ab98991100b016de9e2bb",
-        "key": "fsipanel_2608.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2608/fsipanel_2608.7z"
+        "key": "fsipanel_2609.7z",
+        "signed_url": "https://archive.org/download/navigraph-airac-2609/fsipanel_2609.7z"
       }
     ],
     "format": "fsipanel_v2",
