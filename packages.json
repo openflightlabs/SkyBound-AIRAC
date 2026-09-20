@@ -12,7 +12,7 @@
         "file_id": "f7a34307-7d06-43e0-b2a7-f53b84c38dba",
         "hash": "e1f958c92905b0311f06b7c5ca47981da2cfa23117f50bf974af0cc36175b6d9",
         "key": "navigraph-ingamepanels-charts-v8.13.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/navigraph-ingamepanels-charts-v8.13.zip"
+        "signed_url": "80e7f99dfc1239421c413523:fa09af2e6f3142f1e8bf1cc64a876912:ff3dce9dfdf437b1db32f4a7974fbf95a2c5ef53ef179043d6d6bca4966d11eed09ffea3fdf63472d05d7fa166c81f09384469f7eb0617c1bb90e447977e841379df5768f2cca21265fdb9e445bbd90ca5747925f0802df4635bcc8432b7a918fceaa7cd71"
       }
     ],
     "format": "navigraph_charts_msfs_v1",
@@ -62,7 +62,7 @@
         "file_id": "29b7daab-6a11-4ef6-aa83-379adda4e36d",
         "hash": "161b7047c5dcae3c7669e4f1b61526af4fbd09e563286298364de06d4e8ee2c5",
         "key": "navigraph-avionics-g3000-g5000-v2.4.1.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/navigraph-avionics-g3000-g5000-v2.4.1.zip"
+        "signed_url": "231d821c81b693dc728bb532:88a143350cd19eff7a28af2fbdf4e438:d97094a19afcce0fb3d63db5c965f4af46c9150af706c669175842d3d6114704de267ef0773ca3b875f41dcf80f828101d00c31859c4324b5c0db9f81845ca912fba47d26f3b1390dbe3adbeee51b22de92e22b1753fe5c741bf774813ce3d97037bb2ad6606b5"
       }
     ],
     "format": "navigraph_g3000_msfs_v1",
@@ -112,7 +112,7 @@
         "file_id": "e30f11c3-cc39-41bc-9323-7a2566e59775",
         "hash": "705ac2c0d976a161d6d58c4bde7fd0c87409d320b41fad4f233d3b6f1fb1e650",
         "key": "navigraph-avionics-g1000-v2.1.3.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/navigraph-avionics-g1000-v2.1.3.zip"
+        "signed_url": "ccb436ae915fcf22a963b8c2:6792b07c2dd0fb29912d832b8f5270bb:96e0b7c5ddab8c9875c27d9418d878353719880430a9293fd002c33f0a4c8637ef9dd0e4bd6733ee2af4d3f9bcb0d4f70b4925640529057687f42d13953906abbe1fc4d34f13273aabbfe7703c9099d44d4c1737bdeef0f982cc03ea49dc1d0f22"
       }
     ],
     "format": "navigraph_g1000_msfs_v1",
@@ -162,7 +162,7 @@
         "file_id": "f8ce4bc1-62ed-4503-a999-ac9e431b43dd",
         "hash": "cc436fdf408ca03aa4a1699773da32e7b3804955fbdbdd7826f9ec2afe9b36d2",
         "key": "navigraph-avionics-g3x-v2.3.1.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/navigraph-avionics-g3x-v2.3.1.zip"
+        "signed_url": "5a1f456a4a76c4df7c2ffa23:87a59fe33d31cbde4374bd1072da9f96:5553376f7f0026b07443c540df86448e519dcaca23da0e478a05872c8cc2e0598520ab0275d5ef6cdeefae564413833d2b338dcb357ca9dc7d48c47265c618a3da8510c4518b456cc424605dcd4d552d7ad22904196140e83b86e152d599e6"
       }
     ],
     "format": "navigraph_g3x_msfs_v1",
@@ -212,7 +212,7 @@
         "file_id": "9dec13fe-3acd-4e22-a1e1-a372003f8616",
         "hash": "819cc6038751f4050213b8c37621463829b5761e63457067ab315c3f448025e4",
         "key": "navigraph-simbrief-dispatch-2020-v1.3.2.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/navigraph-simbrief-dispatch-2020-v1.3.2.zip"
+        "signed_url": "2403b39d5c3ec8320584fcd2:5450ff67e74815fc43315a34bcb71f04:535ee155e07cee1a8a74ec9894b36df566c75dd8030b1ff71557cb8158b2574a2dfd8ded8383e268f0aa63b5895fd0be9f4f48bfaa541991a4dea4b4ce789e247d46533f1705640831d470f8eadfeb06395ff8ab91c2291aefbe7fab9c3ff936e09b654eb773fe7bf9"
       }
     ],
     "format": "navigraph_simbrief_dispatch_v1",
@@ -261,7 +261,7 @@
         "file_id": "1b56ac8f-7216-4941-9b8a-0c036090b689",
         "hash": "9f5bfb9b0c63835764274628a820523a45013f69f6710cd55714547795e418e8",
         "key": "navigraph-efb-chartsapp-v1.0.9.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/navigraph-efb-chartsapp-v1.0.9.zip"
+        "signed_url": "0d4487efe8d368a81e960da6:6848046ffdf4342b78717788e0bc5100:d6e489763791a83cc4f54a472593d93925e409e650aec35315d516ada239c00c5675bf289610ec4a13f2cc3f3e5860132c0d0b979bfbf59e0a5532fbbc4d5450ea852da7856addd14c98df8a315d56d28c24063054381052045ab098c1a547bd"
       }
     ],
     "format": "navigraph_chartsapp_v1",
@@ -310,7 +310,7 @@
         "file_id": "fe04ac54-9078-490e-b846-991d59143f32",
         "hash": "b3d9bedb32052ec5de4d749a137011f0f4a79b253ede5588edccfd0819b0d398",
         "key": "navigraph-efb-simbriefapp-v1.3.2.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/navigraph-efb-simbriefapp-v1.3.2.zip"
+        "signed_url": "8a99204f1f4c9cdf5a69d9e1:386264f6b1da9d66f45c6e804417fdbf:a64af05ffe8d4845a207b520ddecf206124b624fcbeae8f7d00a3e548c48fdad9daefe2da60d0d897526f7582112c6f64a9c83cefd02a7adfcc1c176c15435ff5b3487577c86c056397d3df05b15f5ed4ac5a159971b2d1466d3d8227a5b11e9242d"
       }
     ],
     "format": "navigraph_simbriefapp_v1",
@@ -359,7 +359,7 @@
         "file_id": "3c24abfb-0129-4086-8f5a-42192ab1478e",
         "hash": "29a462434943ea4bb17554cb59e824f92a0c4cee8a7fe3e2b76a5848de7fbf56",
         "key": "navigraph-academy-2020-v2.0.0.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/navigraph-academy-2020-v2.0.0.zip"
+        "signed_url": "f088b3f17ee674c8bbfd535e:db56a5dab940cf40d242db92f1daf5af:2600ff9328f2b9c959fac807169f57c32117d519239049412e03f35074912371b4a07a6a6d302bbb0f82f224b9316add7a7f4ffac98b7186fdda71c788e4c40141e3b39952bb31bdeac3224e874f57f5b732af7c73fc2b4fbd7439a5da00d5"
       }
     ],
     "format": "navigraph_academy_msfs2020_v1",
@@ -409,7 +409,7 @@
         "file_id": "7b6ec2a9-8a73-4b92-bfaa-c3f509966652",
         "hash": "4e2a4cd86748a3c4d8d912979bc9e17e6e5621e5eff6536ed7d5c0758b007ad1",
         "key": "navigraph-academy-2024-v2.0.0.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/navigraph-academy-2024-v2.0.0.zip"
+        "signed_url": "f7130663cfe379798927b86d:433593fd4d7545795d772cfef03b9809:94e850b30772c17b252c7932ce71ad58c8758383753f8a33fbbef973f41ed81bc8146e22446f939de054b56f88ddca6697d468e5f4f9bdea64c51a75cc8794e6335a2836caf29ef6efa7ea88619e55ff58c5dda9191885f5258d8f3997b16e"
       }
     ],
     "format": "navigraph_academy_msfs2024_v1",
@@ -529,7 +529,7 @@
       {
         "hash": "87383ecca507b915d8a40194c24fb515cc23f89676d1c4a8942f977d33f0fdbc",
         "key": "Aerosoft-CRJ-900-1000_2609.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/Aerosoft-CRJ-900-1000_2609.7z"
+        "signed_url": "ee318e0f282cfbfd84ab4808:24ad71cc8f8d7631d9f481f920358c87:7f92493d85c2d660ed84ed1b26a80eac7601312d9d36800c9432a86197de7a729f309a411674785a88b2c2ec2c05f250eae23e9ab7db6f5b09acc0063bbae0919578da29579926e639fc25f0481204169573744d0f217af9914cf5"
       }
     ],
     "format": "aerosoft_navdatacenter",
@@ -584,7 +584,7 @@
       {
         "hash": "6068508e7be1c04cf16d4fd18fc81bb2514462fbd3481c36362770659e382f6b",
         "key": "aerosoft-crj-workfolder-2609.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/aerosoft-crj-workfolder-2609.zip"
+        "signed_url": "be38726189e4dc2eb717d64c:97cce2cf419010ec0d28b50ee4ad366a:4cb932d2b9d436cb34fdcfdc3be6b9edd70fd29070fe4bddb0c52322cde3b20c03c263eac82a99c2f1b31d4283a7d3cd5ae32c715a99f3e61fd299dbc871f6a71779ea403e2dfd5757d9591c1362b1970126c9bb6f306b0c404148d824a1"
       }
     ],
     "format": "aerosoft_crj_workfolder_v1",
@@ -651,7 +651,7 @@
       {
         "hash": "bae3331eae314dbb2f9f4b8f3c9d45030f14876a25c808da09aca489bb395b00",
         "key": "flythemaddog-2609.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/flythemaddog-2609.7z"
+        "signed_url": "6f0feb4749ecc38d4277becd:8eeae4aae4aeedbfe1e792292ce27260:4f9381134b73ceb793a306e15610eda00a931078a4d6d117c4f181f900d54d272fe3878a8bc2f6cd77f5b84a25af30a1927b38c38f437086de3465a5b27a6912f3b925d98520244b9ac1c3db9915976c3180"
       }
     ],
     "format": "flythemaddogx_navdatacenter",
@@ -712,7 +712,7 @@
       {
         "hash": "8691245089e97d50e22598698d8cf1a09a38d75c0223415789c39f23a226e645",
         "key": "fenix_2609.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/fenix_2609.7z"
+        "signed_url": "07d17459ef8f8fe0c777fca1:b357b7b211080ae4cd347382c2425187:d58e907ee721386a0e025a3252aa72659fa79750f7c0cf18ba9f6fb7185e7a1353ea669fab3cb58bf99876f8da2965e66ac7150d0cdef37770432b57dd499d723670b4cc75142a054ff2fc"
       }
     ],
     "format": "fenix_nnc_v1",
@@ -768,7 +768,7 @@
       {
         "hash": "876f158a9b9ef854cd79dd944b2e79a030a27fbe9d25eca33c3a3e9276d47b17",
         "key": "milviz_t6a_2609.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/milviz_t6a_2609.7z"
+        "signed_url": "7633a256f9c292859d4d5c20:52de2dc3fef9d264af2b5067e80457e5:2ac459e9f1d21a5e12e4bdbd599bb0d8208bac666d57aec7507f32fc6baccc77625f6700da0c74dcf0f9eeddeebb07bd095fdd31240cf47cdc785c75646dc252db69ce105f184c5a81d43ff294437349"
       }
     ],
     "format": "milviz_t6a_v1",
@@ -823,7 +823,7 @@
       {
         "hash": "729c834026f3cf6aadb1c6c9a09a536c2767eaf955e392faa8deff004053b40f",
         "key": "tfm_2609.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/tfm_2609.7z"
+        "signed_url": "8cfd71bac08fba2f3dbe3de9:3250843f3f9f16f8bdfd897c1dee6649:63662f4d87f0a748bafbe06f905d642ce1ccf0109e4a970947bb3e5b9d92b1f6657014c2cecca19cd602f2b58a14ca5d3fcde3511406bd9eee739d6810f4febc624319f6a8f8d4cc53"
       }
     ],
     "format": "tfm_v1",
@@ -878,7 +878,7 @@
       {
         "hash": "8ad042edea232a0cab374e3fb1d948eacfa12ad9f83ab98991100b016de9e2bb",
         "key": "fsipanel_2609.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/fsipanel_2609.7z"
+        "signed_url": "50dbcbeb8161c9557ecd2b1a:837626848732e4fa56730177f3774b22:5757d482efadf4b85217644396f5b441dd32301027f0a34ba0e7b998400ea33c19b491b6714fd6b944a03d8274e99126a99d805ff3a9aa39709e833c487189f7b28761afc3ba6991c1b9cc65bc99"
       }
     ],
     "format": "fsipanel_v2",
@@ -927,7 +927,7 @@
       {
         "hash": "7ec04a27214135da8dac7a7c6e9d8b52b03e7d4028486e02d6fe07ba5ceb9af5",
         "key": "tds_gtnxi_2609.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/tds_gtnxi_2609.7z"
+        "signed_url": "bcf5d17b28170fbbe040a35d:8d2030a912f65cc233d83293335bff20:f94c1b892b5c4e0663de6a0dc610b2d11994de7afdb7a221287509d6efafde3490672f60e8458b130a18a3fa204124c4a774c5cb9290d7da34d093fb3b8f633705a49c98745b328e4a9fe96331786e"
       }
     ],
     "format": "tds_gtnxi_v1",
@@ -976,7 +976,7 @@
       {
         "hash": "38a04a70b2d67f5ff22892f7cd595e81bac81ff4d7a96778141be713a7222ef6",
         "key": "hifi_asfs_2609.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/hifi_asfs_2609.7z"
+        "signed_url": "5e3331f5ee7604ffe66fdd4b:31abecec4eb921d55f89836cea484232:92efd83f15398f26f7064bc44926b31ad4d05f4dce0c262b2076d139004692a242f1d45adea37618ef8d5c0d6f460f268cab99b85dfa0f5f5e6bc8565d983aeb09b2818b91847cd32818229fa2fdf2"
       }
     ],
     "format": "hifi_v2",
@@ -1025,7 +1025,7 @@
       {
         "hash": "0bab1e4a07cd485c85900736718ee06622cb8e0c4c146dd8a36f005bd4a5b498",
         "key": "ifly-aircraft-737max8_2020_2609.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/ifly-aircraft-737max8_2020_2609.7z"
+        "signed_url": "a126831cb82ce231b55f16b2:6904701dd91d8c8383ddbfbada6b1d13:4dad9c020ffd537654d01c52635f6840f020050b86bfa58b68742318b82eadca9942fba7dc9120d4b4f2da454383c77ee6d6d4bc377a9740747d1d65a8fdf88734962017d763c8ea314b030125c02ae85a0a9f95b1c4ad4ec923754095279ac8"
       }
     ],
     "format": "ifly_737max8_v1",
@@ -1086,7 +1086,7 @@
       {
         "hash": "4475e3c0219757d194b6d9ac2c9370b1558f47715e336e255690392a769d8031",
         "key": "aerosoft-aircraft-a333-pw_2609.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/aerosoft-aircraft-a333-pw_2609.7z"
+        "signed_url": "dd82e68fe5e950120e812162:3b8e64c45a7f1741ca98b4e1b4d18a5a:772d021532f0ab0eacdc7e18502e96a94b352e120d8b081ff271cd1125b1709b8c5bbd1bca1479c64304bfe24098e7b17b4dcf1940ba45a157449c0ea778fb7c6d3f0662c85bdb483faefb5f05fd75b2d0f26896e9ae526af7183826a1a2f3"
       }
     ],
     "format": "aerosoft_a330_v1",
@@ -1139,7 +1139,7 @@
       {
         "hash": "d84ea5534df38beeb80acc7f8b68218edee1feb709f4498e6cf1987c85f85aa2",
         "key": "fslabs-a321-2609.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/fslabs-a321-2609.7z"
+        "signed_url": "a31a99c6cd6d7b2ace73c4e8:dece9bacc2841d8dcda194ac3fdde19f:e67df526a114c62ed07cfd14430f940fedd0e8c72fbd2fd571193bcc8e04da064411db0b833fed6c2f8254a297efd2d991efed0e513c1e7104f26fd8407d1825610703f0dabc55122d98c61944fa37f429"
       }
     ],
     "format": "flightsimlabs_a321_v1",
@@ -1189,7 +1189,7 @@
       {
         "hash": "0bd53fd4348dbc0c1c7c4e5b9bd55ac5789fa435a3680e55a66256ae8712cbe3",
         "key": "msfs2024_2609.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/msfs2024_2609.7z"
+        "signed_url": "fe6847c98decad7bef65d2dc:ca12f15fd264227deb1b496b037f2061:d00ace028638d483b387c3a03259344ac6c00fd576c84dba8681487cde46f066365b1564b72885383435e2c420b4927494db364fe89bb5d3d2811bbf3907fc14c0dd1749f5be23fd08e4303b2e29"
       }
     ],
     "format": "msfs_v3",
@@ -1252,7 +1252,7 @@
       {
         "hash": "58b2e8cd4636c673eab9c9975a2e1e72effb5676e8197c6271982d0403f49e7f",
         "key": "justflight-aircraft-workfolder-2609.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/justflight-aircraft-workfolder-2609.7z"
+        "signed_url": "3e5fcec9990dd9bea9139d48:6db28e70056be6b4c1080507c096b325:f707668d8b211b0f18c5d9f6ed74c1aab97f5f2c8e1b50798b8435854eb9cd4882343644cf8d6b60628646a61586c0b6bfbd73862a3959fa2c3e1fa401c03f95d0b5d11324125abbd79d04c68c96e2dd57476906df68a960992ec0dd5e1fe1dba1545a6f"
       }
     ],
     "format": "justflight_f28_v1",
@@ -1318,7 +1318,7 @@
       {
         "hash": "73f7a60e55668f1e87adf0c7966303e21198503a3a1ff9639e73ea988b5a1b5a",
         "key": "css-737-2609.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/css-737-2609.zip"
+        "signed_url": "2c2efa90d3d10ef21b0912f9:7edd334e6377fb2ae9d720da62293d77:090ddfa2398d3260a939b185cab8318188b589a731d7904b48fda58360df50a08bd578df6f2e5277e6689b1c128b2d845c9bb31b6cf944e9fc417d9d82ae6eda7c2ff25d4d2df82f7cedb1c9bda6"
       }
     ],
     "format": "css_v1",
@@ -1378,7 +1378,7 @@
       {
         "hash": "277ad139fb2ae0733a1db4aceb303507dae2f16234a3b058abba9bd08679db83",
         "key": "ifly-aircraft-737max8_2024_2609.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/ifly-aircraft-737max8_2024_2609.7z"
+        "signed_url": "b07d488c9bf16bc3ea271a19:f972b9b66f54a5ced7fdd9f42c97df11:fe8ab04c04ea10011069d721f6c5c1c1282276400275bbbc2d8f90b65bd7a1b8a7ff8308683fe531511fb65caec8574c66c197d115c43da90d6e92f39c6be8c017dec2c0fffb4fca2456c570f42acfe388fd2395e4acb31593a5f6dc5d8bd039"
       }
     ],
     "format": "ifly_737max8_workfolder_v1",
@@ -1444,7 +1444,7 @@
       {
         "hash": "822bb0310d4e4aa3d5f4bb95ad6b96f865f6c10b78156f790e60e9f2f37227e6",
         "key": "pmdg-aircraft-workfolder-2609.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/pmdg-aircraft-workfolder-2609.7z"
+        "signed_url": "b79c6002d7613ec3b438194f:7414ff5178e9c2eaa59081bbc49546f6:d54c17d7d76aff7b4296a4ea33fbb34ce6cf2d77b23bb6db4a4c98ac093dc1cf4f32cb3a258408fb95d34ca2de30fdff03988fc98a5e25850b1de36bf4bdc80a399f1667f614e58796fc4b3e578c8cd9ae5854d97420fa1f514d3595187a"
       }
     ],
     "format": "pmdg_workfolder_v1",
@@ -1513,7 +1513,7 @@
       {
         "hash": "822bb0310d4e4aa3d5f4bb95ad6b96f865f6c10b78156f790e60e9f2f37227e6",
         "key": "pmdg-aircraft-workfolder-2609.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/pmdg-aircraft-workfolder-2609.7z"
+        "signed_url": "09adf02c433e86c174e38494:ead9177fea3d2758b295c61033a9a717:546d8f78f2c0724b6b24956b2c20ac3d39a82f1a38731abf255f05905ec896b734b19776418e50e3de8f5b6fa84dcbe22307439fb2be4dfe3a66c75e4c4e95f2ebfcadccd54c6194c6345b76ab969c73ad3bcbe452efdbe0eaf6694fd72f"
       }
     ],
     "format": "pmdg_workfolder_v1",
@@ -1582,7 +1582,7 @@
       {
         "hash": "822bb0310d4e4aa3d5f4bb95ad6b96f865f6c10b78156f790e60e9f2f37227e6",
         "key": "pmdg-aircraft-workfolder-2609.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/pmdg-aircraft-workfolder-2609.7z"
+        "signed_url": "8680cacad3674338987cef04:a0ac1e1387fa562432861d1e914bcc10:2f4b44a00a989bc8275b74e2528aa7e97f1aaf34d1fc5e19b876a58d44f8b8a0888bacd42d884ccac6b35ea730aa1a92b2a8ee24647d8dbea2558983d3e53a0494d9d8038a60280939f54471c682b1cc45c3b55a0ac88d51ba4850d284a1"
       }
     ],
     "format": "pmdg_workfolder_v1",
@@ -1651,7 +1651,7 @@
       {
         "hash": "822bb0310d4e4aa3d5f4bb95ad6b96f865f6c10b78156f790e60e9f2f37227e6",
         "key": "pmdg-aircraft-workfolder-2609.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/pmdg-aircraft-workfolder-2609.7z"
+        "signed_url": "681bc22add8d1ff264f72399:a2088c802fbac0de915b6e3adfc866b6:cdecfa600b5211ebbdf9c1746ee6a6e86b038a38db398110dac6b4d25a22e314b002ba496388c2d89f83616b393be6a9073753153c17160b995e2b9eb3b224bf48bdca699e84187bff6764646a4d8944ca078a329589722e9e084023b255"
       }
     ],
     "format": "pmdg_workfolder_v1",
@@ -1720,7 +1720,7 @@
       {
         "hash": "822bb0310d4e4aa3d5f4bb95ad6b96f865f6c10b78156f790e60e9f2f37227e6",
         "key": "pmdg-aircraft-workfolder-2609.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/pmdg-aircraft-workfolder-2609.7z"
+        "signed_url": "374523a86c1fc6518992de15:1d0c73a2f261a48d20ecd9df7b28f7f1:f43223fb90ec3d99300d9fa688603ed60b5fadc442008b00ee11b6a85bcf4a8bf72641f167c0735c319db3c962253028f3d62e47598737cfc003f90836b65c26e2ee292a6e5ded7bbda6b2de7f09848e4e6f5de47144486f8c471b57a4f8"
       }
     ],
     "format": "pmdg_workfolder_v1",
@@ -1789,7 +1789,7 @@
       {
         "hash": "822bb0310d4e4aa3d5f4bb95ad6b96f865f6c10b78156f790e60e9f2f37227e6",
         "key": "pmdg-aircraft-workfolder-2609.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/pmdg-aircraft-workfolder-2609.7z"
+        "signed_url": "3498bce831d4b4f8eddd07aa:0104fff8a172f25f5a0e4a61686956b7:7de0588b2e451114a9ebfe9332de081eb3d8f524e2a983ba35746003fa31a9ecbb897f3238fbb495482f2852a0dad3669714fce67086affb9a425b4251be3573d6db248da657e0b338ed00f5fae741c5d28c6189727edbe972df6621d19a"
       }
     ],
     "format": "pmdg_workfolder_v1",
@@ -1858,7 +1858,7 @@
       {
         "hash": "822bb0310d4e4aa3d5f4bb95ad6b96f865f6c10b78156f790e60e9f2f37227e6",
         "key": "pmdg-aircraft-workfolder-2609.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/pmdg-aircraft-workfolder-2609.7z"
+        "signed_url": "90de1e9038ed22d8af0ecfbf:76500368f2dba8697670b90982c9e4b7:45334c7a0a7752fee54f78eadb246e3485b51da07526ac43a64724b823fe51004fa5f438cbb185f4ec5e174d0a5d28ce1cb24dd721fffa7741203f1ee5c822d0013e356d39776a8886ad20dc3cfb13023f9fd9e0339a8f1e68a4ee011032"
       }
     ],
     "format": "pmdg_workfolder_v1",
@@ -1927,7 +1927,7 @@
       {
         "hash": "822bb0310d4e4aa3d5f4bb95ad6b96f865f6c10b78156f790e60e9f2f37227e6",
         "key": "pmdg-aircraft-workfolder-2609.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/pmdg-aircraft-workfolder-2609.7z"
+        "signed_url": "0baa2cacacf8385106d0a4f7:3bc675eae2bc3ab991dd9b63bf35bbbb:07615e7e28de52c571c90bb3998a85791df1a5ae116ec6a9ba54de3281373a7a21e8fcc5ffe1d2352f6d34b1e910d573fd0c6662296a53982cae6cdf819109bc77d23d65bab2255504fe60e9a9eb70d0a0b25dd9f922186622e81583d49a"
       }
     ],
     "format": "pmdg_workfolder_v1",
@@ -1996,7 +1996,7 @@
       {
         "hash": "744a154c2edcaba69c6e9b58b992ea8d07a0dacef834f192a0b243080a50d6ae",
         "key": "blackbird-d30-workfolder-2609.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/blackbird-d30-workfolder-2609.zip"
+        "signed_url": "01168c583181dcf6c67be1b6:8c877d7f61a5188c851054d99aca67e2:a39dbcdb0ff38a7e497a50350eed741ca217e8ae6e826f6bfbd5195ca2de99e72b00254287be945518548d1830b991eb51aa80af485feda088aa797b47caee8a110e6a9d399381cd857452ea51f013b00fd6648b7494685a0d1f67cb0f8647"
       }
     ],
     "format": "milviz_d30_workfolder_v1",
@@ -2059,7 +2059,7 @@
       {
         "hash": "58b2e8cd4636c673eab9c9975a2e1e72effb5676e8197c6271982d0403f49e7f",
         "key": "justflight-aircraft-workfolder-2609.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/justflight-aircraft-workfolder-2609.7z"
+        "signed_url": "c21a48003cea6cdfe505561d:8615a40168ff9f15c0b523e7893b7898:a7908aecd81a2120193a55434d38406ed070640a67365007b5293b2f1c5764b0505dde8059bfec96deaffd5cfe6de3df621bf4795a1151868734d1fc3d0f7c5443c0437c375f75040edd4d6d1cbc168743df4fd07b20b8f66cf22bdd37ad667d4836e92d"
       }
     ],
     "format": "justflight_rj_avro_workfolder_v1",
@@ -2125,7 +2125,7 @@
       {
         "hash": "68ffde671649d84a6f51a788955c1b0d99634f3145ac3ced1b8cffeb67613626",
         "key": "aerodynamics-t38c-workfolder-2609.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/aerodynamics-t38c-workfolder-2609.zip"
+        "signed_url": "d8d95e2c7da93a8c60e26101:66bc17e319e274595cb2e83231eb04b3:f3bfe3c6e00e9d7138bb3012aa7b8d26f9b04bcefcd33e13e96b423a3e68bd497ff7a7f3647e29a87ffaaa0a998b73e06f93ab89e0a48f3c1619e897b552ffc75101234cfa6491b6fb06b0baa803edd1e532cd299b5bb40c502daa667973a71d29375a"
       }
     ],
     "format": "aerodynamics_dfdv2_v1",
@@ -2187,7 +2187,7 @@
       {
         "hash": "58b2e8cd4636c673eab9c9975a2e1e72effb5676e8197c6271982d0403f49e7f",
         "key": "justflight-aircraft-workfolder-2609.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/justflight-aircraft-workfolder-2609.7z"
+        "signed_url": "7b1be984685480f7303276e0:8d7283c797ba8a8287450c321ca25379:71044f3f1850ee94f8e7f8452e7812fb0d4b155f8dbc7a2a3ca7dbd1b5872383588306a03f67d6c56b13153e000ce79b8cda4f76c6b340b360e3c12f5ef0db567758e0c935bb9342b5762eb7c45c8268f79f352c26530d2ed9505b3ca19498c361ed5159"
       }
     ],
     "format": "justflight_146_workfolder_v1",
@@ -2253,7 +2253,7 @@
       {
         "hash": "5259d5ceda04efe29dfa891452a30a5ea93f1ce922e3cad7081c8aedf9822978",
         "key": "fycyc-c919x-2609.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/fycyc-c919x-2609.zip"
+        "signed_url": "a104d233837b2ace6bf02504:7c99bb733008951bbdd5f9d3b25e7f4f:80dce0148732cf338c81dca4f9b981e5a630cc0f4ade9774c90d9faebfc049d041634fc1caf152daec486af636219a1dca1949d1b16a6ce8d13e39b4d0c4c90672dd29ba37356a62f354fa3f9e90ffbf440f"
       }
     ],
     "format": "fycyc_dfd2_v1",
@@ -2316,7 +2316,7 @@
       {
         "hash": "a3301b57a16d0c22dfa0e6711e946b0d8d087d9823b22da5f5b63aa1ff9a5b4b",
         "key": "tfdi_md11_2609.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/tfdi_md11_2609.7z"
+        "signed_url": "290ccebe7731ce49e7b09992:5a59678740cc18cb0a62478f6ce9b6f5:1b7666924451d475d7dcdfb85db8438545903fc2d63f92af9386500716268c156c2238c303aa3b9d3d58fd1f5d6e0c220798c3c2914336c333692b250b97ab2c8b3fb9cd6d99465bba303bb6e6be45"
       }
     ],
     "format": "tfdi_design_md11_workfolder_v1",
@@ -2380,7 +2380,7 @@
       {
         "hash": "5651055a1aeacad9add46d56e3feedc6247e51a21ac0bce22bb68eb05e17d26a",
         "key": "navigraph-avionics-epic2-v1.1.1.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/navigraph-avionics-epic2-v1.1.1.zip"
+        "signed_url": "8e9e70bf6f12311757991f47:2c8c2a29b2b3fcdfe1a8818ce29a04b5:40c8eb1496f3a164545a5f5a1d7328c61139e4b0071eb8795fedd028c4c86dd2142c4faf74b032af08677030c68bdf57d97c42be677570b7a40a409f2e04b390a6e5a1b6e2d1f13a3db1e51d101bc8c932ccf79e73b18eed05e656061248d9d769"
       }
     ],
     "format": "navigraph_epic2_msfs_v1",
@@ -2428,7 +2428,7 @@
       {
         "hash": "0dcfb9ac3c095a91da0ad398013bce4f3dc29edc2789c8de196dc669da19e62b",
         "key": "jf-fokker_2609.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/jf-fokker_2609.7z"
+        "signed_url": "7752028710288e9efbc28cc8:117d684d794fe40ef0cd3090cafae34a:93965029be86cdbc03e7d73a0bf1e9e6889ab88c3a2334d818422c2e116ff73e2da64e575235c7f64dafa175eab2650fef18dfc14f43a525f531a381a59ffbc21706d688686d54425940254b80995e"
       }
     ],
     "format": "justflight_f70_f100_v1",
@@ -2486,7 +2486,7 @@
       {
         "hash": "0dcfb9ac3c095a91da0ad398013bce4f3dc29edc2789c8de196dc669da19e62b",
         "key": "jf-fokker_2609.7z",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/jf-fokker_2609.7z"
+        "signed_url": "842a8ae8cea2c5c17d581a24:691cd1f2f5932f3ded1afcb20d00d374:fae9ae3bd6b64f6d425a5e816948c438a7dae0eb3d7fa1116dda40d1b62c021c5a47b91a575db45b80f54c05a1da67bebc58f68f477e17faa4918d42b3839b04aca9b5be9046502a4d0133a6ea2e63"
       }
     ],
     "format": "justflight_f70_f100_v1",
@@ -2544,7 +2544,7 @@
       {
         "hash": "",
         "key": "inibuilds_a350_2609.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/inibuilds_a350_2609.zip"
+        "signed_url": "c03b879de2fd40dbe211e26b:8154470894f96344d6b1e578bd20d096:3c75bf8097bc24fdeb479c26f520f1f6cd9af3b450af1db17fbdda137b68e2e4585d57929a300ebb07b57849656d9d9ae70e0fa95a869926c8381d5aa646387150ef02969817cc4d56f839a9531477f443e7a4cc91"
       }
     ],
     "format": "inibuilds_a340_v1",
@@ -2601,7 +2601,7 @@
       {
         "hash": "",
         "key": "inibuilds_a350_2609.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/inibuilds_a350_2609.zip"
+        "signed_url": "967fc1b14ec051074db6e5d5:22347947f39d82a46cd4e75c38b3e635:f3b3fbdb0dc2509bca4b91b13fe9ae530bc11b1b020761c55f3228796a3bf60594d1e9d1747723132ce90b3b0d5cc1243d08f6e171a0e0b82b18fa481e89e5309022f9cf326890d728809e6ebcfd3e1b9e216c1a81"
       }
     ],
     "format": "inibuilds_a350_v1",
@@ -2670,7 +2670,7 @@
       {
         "hash": "",
         "key": "aerosoft_a340_msfs_2609.zip",
-        "signed_url": "https://archive.org/download/navigraph-airac-2609/aerosoft_a340_msfs_2609.zip"
+        "signed_url": "1afdd8aa12b496845b5e74fd:a8c267e2b334417fe1a8b671b2b6750e:478a6b186ecdc2eb6218e10bc12d13f229ba8f34c94e0a5717b996e27aedd3271272e5e8ab248ab581649debd135bca6125618a0e6c191747d31c9dd4818d4454dfd879f00fb0b199cdf04a6c18b4ea26e04b1e29b11ca7340"
       }
     ],
     "format": "aerosoft_a346_v1",
