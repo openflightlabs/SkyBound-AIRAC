@@ -1,8 +1,8 @@
-version: 1.2.1
+version: 1.2.2
 files:
-  - url: 196eda7ede21f09fab196f9c:da23b6848a43ea71745941a3e661b756:6bf6473c158e590f8e871af37a351601e5227f0c0f605b72ee289c1804004cee70f5307b7f514d9c8f77268d22063ae183f9b74956d0be805ba3ac70cb60635fecf14f8b9cf94d57c06c
-    sha512: waCuVI8TZ1OVhp0Fhb4hpZq4yE+TslHQYIvbvHZZ22EoPsaRZbiLtBKIHx9KQT9IAP/U+8mqv6WnqfBp2b5dNw==
-    size: 123654662
-path: SkyBound_AIRAC_Updater_Setup.exe
-sha512: waCuVI8TZ1OVhp0Fhb4hpZq4yE+TslHQYIvbvHZZ22EoPsaRZbiLtBKIHx9KQT9IAP/U+8mqv6WnqfBp2b5dNw==
-releaseDate: '2026-09-20T12:28:33.679Z'
+  - url: https://archive.org/download/sbairacv122/SkyBound_AIRAC_Updater_Setup.exe
+    sha512: 7kxDSA81PJU92YBzOcV6Q10CKLI5+fr6K1rhKzhzZYP6Y45nZg6rI7WYgZ4liQnn7mjCgTJnwoxU6mU1tLYrVw==
+    size: 123705865
+path: https://archive.org/download/sbairacv122/SkyBound_AIRAC_Updater_Setup.exe
+sha512: 7kxDSA81PJU92YBzOcV6Q10CKLI5+fr6K1rhKzhzZYP6Y45nZg6rI7WYgZ4liQnn7mjCgTJnwoxU6mU1tLYrVw==
+releaseDate: '2026-09-20T20:13:44.598Z'
