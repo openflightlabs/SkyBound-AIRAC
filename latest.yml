@@ -1,0 +1,8 @@
+version: 1.2.2
+files:
+  - url: https://archive.org/download/sbairacv122/SkyBound_AIRAC_Updater_Setup.exe
+    sha512: 7kxDSA81PJU92YBzOcV6Q10CKLI5+fr6K1rhKzhzZYP6Y45nZg6rI7WYgZ4liQnn7mjCgTJnwoxU6mU1tLYrVw==
+    size: 123705865
+path: https://archive.org/download/sbairacv122/SkyBound_AIRAC_Updater_Setup.exe
+sha512: 7kxDSA81PJU92YBzOcV6Q10CKLI5+fr6K1rhKzhzZYP6Y45nZg6rI7WYgZ4liQnn7mjCgTJnwoxU6mU1tLYrVw==
+releaseDate: '2026-09-20T20:13:44.598Z'
